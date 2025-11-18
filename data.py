@@ -2,11 +2,9 @@ import json
 from pathlib import Path
 import sentencepiece as spm
 
-# Function that parses JSONL file and returns list of text pairs
-def load_pairs_from_jsonl(jsonl_path: str):
-    """
-    Returns list of tuples: (source_text, target_text)
-    """
+
+
+def load_train_jsonl(jsonl_path: str):
 
     # Initialze return object
     text_pairs = []
@@ -16,7 +14,8 @@ def load_pairs_from_jsonl(jsonl_path: str):
         for i, line in enumerate(file, start=1):
 
             # Skip empty lines
-            if not line.strip():
+            line = line.strip()
+            if not line:
                 continue
 
             # Read the JSON object and extract text pair
@@ -36,30 +35,53 @@ def load_pairs_from_jsonl(jsonl_path: str):
 
     return text_pairs
 
-# Train SentencePiece model on given set of text pairs
-def train_sentencepiece_model(texts, model_prefix, vocab_size=1000):
-    """
-    Train a SentencePiece model on given list of texts
-    """
+
+
+def load_eval_jsonl(jsonl_path: str):
     
-    # Write all text pairs to a file (required input for SentencePiece)
-    tmp_file = Path(model_prefix + "_tmp.txt")
-    with open(tmp_file, "w", encoding="utf-8") as f:
-        for t in texts:
-            f.write(t.lower().strip() + "\n")
+    # Initialze return object
+    data = []
+
+    # Open the eval file and iterate over JSON objects
+    with open(jsonl_path, "r", encoding="utf-8") as file:
+        for i, line in enumerate(file, start=1):
+
+            # Skip empty lines
+            line = line.strip()
+            if not line:
+                continue
+
+            # Read the JSON object and extract eval data
+            try:
+                obj = json.loads(line)
+
+                data.append(obj)
+            
+            # Handle exceptions
+            except Exception as e:
+                print(f"Error at line {i}: {e}")
+    
+    return data
+
+
+
+# Train SentencePiece model on given set of text pairs
+def train_sentencepiece_model(text_list, model_prefix, vocab_size=1000):
+
+    # Write all texts to a file (required input for SentencePiece)
+    with open(f"{model_prefix}.txt", "w", encoding="utf-8") as file:
+        for text in text_list:
+            file.write(text.lower().strip() + "\n")
     
     # Learn the optimal tokens using SentencePiece model
     spm.SentencePieceTrainer.train(
-        input=str(tmp_file),
+        input=f"{model_prefix}.txt",
         model_prefix=model_prefix,
         vocab_size=vocab_size,
-        character_coverage=1.0,
-        model_type="unigram",
         pad_id=0, unk_id=1, bos_id=2, eos_id=3,
     )
 
-    # Clean up the temporary file
-    tmp_file.unlink()
+
 
 # Load a SentencePiece model
 def load_sp_model(model_prefix):
@@ -67,19 +89,26 @@ def load_sp_model(model_prefix):
     sp.load(f"{model_prefix}.model")
     return sp
 
-# Use SentencePiece model to tokenize text pairs
-def tokenize_text_pairs(text_pairs, sp_src, sp_tgt, max_src_len=128, max_tgt_len=128):
-    
-    # Initialize return objects
-    src_ids, tgt_ids = [], []
 
-    # Iterate over each text pair
+
+# Use SentencePiece model to tokenize text pairs
+def tokenize_text_pairs(text_pairs, sp_src, sp_tgt):
+    
+    # Initialize return object
+    token_pairs = []
+
+    # Get BOS/EOS token IDs
+    bos = sp_tgt.bos_id()
+    eos = sp_tgt.eos_id()
+
+    # Iterate over text_pairs
     for src, tgt in text_pairs:
 
-        # Use correct SentencePiece model to encode source or target text
-        src_toks = [2] + sp_src.encode(src.lower(), out_type=int)[:max_src_len-2] + [3]
-        tgt_toks = [2] + sp_tgt.encode(tgt.lower(), out_type=int)[:max_tgt_len-2] + [3]
-        src_ids.append(src_toks)
-        tgt_ids.append(tgt_toks)
+        # Use SentencePiece models to tokenize source or target text
+        src_toks = [bos] + sp_src.encode(src.lower(), out_type=int) + [eos]
+        tgt_toks = [bos] + sp_tgt.encode(tgt.lower(), out_type=int) + [eos]
 
-    return src_ids, tgt_ids
+        # Append token pair to return object
+        token_pairs.append((src_toks, tgt_toks))
+
+    return token_pairs

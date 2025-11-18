@@ -1,10 +1,20 @@
-# Don't track local environment configuration
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
 .venv/
+
+# VS Code config
 .vscode/
 
-# Don't track the dataset
+# Dataset (do not track)
 dataset/
 
-# Don't track SentencePiece models
+# SentencePiece models
 *.model
 *.vocab
+sp_*.txt
+
+# COMET models
+wmt22-comet-da/
