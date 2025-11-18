@@ -1,2 +1,10 @@
+# Don't track local environment configuration
 .venv/
+.vscode/
+
+# Don't track the dataset
 dataset/
+
+# Don't track SentencePiece models
+*.model
+*.vocab
