@@ -1,12 +1,14 @@
 import tensorflow as tf
 import os
 
-from val import run_validation
+
 
 class Encoder(tf.keras.Model):
     
     def __init__(self, vocab_size, embedding_dim, hidden_size):
         super().__init__()
+
+        # Define embedding and LSTM layers
         self.embedding = tf.keras.layers.Embedding(
             input_dim=vocab_size,
             output_dim=embedding_dim
@@ -18,14 +20,23 @@ class Encoder(tf.keras.Model):
         )
 
     def call(self, input_tokens):
+
+        # Embed input tokens
         x = self.embedding(input_tokens)
+
+        # Process embeddings through LSTM
         output, state_h, state_c = self.lstm(x)
+
         return output, state_h, state_c
+
+
 
 class Decoder(tf.keras.Model):
     
     def __init__(self, vocab_size, embedding_dim, hidden_size):
         super().__init__()
+
+        # Define embedding, LSTM, and Dense layers
         self.embedding = tf.keras.layers.Embedding(
             input_dim=vocab_size,
             output_dim=embedding_dim
@@ -38,45 +49,56 @@ class Decoder(tf.keras.Model):
         self.fc = tf.keras.layers.Dense(vocab_size)
 
     def call(self, input_tokens, initial_states):
+
+        # Embed input tokens
         x = self.embedding(input_tokens)
+
+        # Process embeddings through LSTM with given initial states
         outputs, state_h, state_c = self.lstm(x, initial_state=initial_states)
 
-        # Project LSTM outputs to vocabulary logits
+        # Convert LSTM outputs to vocabulary logits
         logits = self.fc(outputs)
 
         return logits, state_h, state_c
+
+
 
 class Seq2Seq(tf.keras.Model):
     
     def __init__(
         self,
-        src_vocab_size,
-        tgt_vocab_size,
-        embedding_dim,
-        hidden_size,
         src_tokenizer,
         tgt_tokenizer,
-        bos_id,
-        eos_id,
+        embedding_dim = 256,
+        hidden_size = 512,
         max_decode_len=100
     ):
         super().__init__()
-        self.encoder = Encoder(src_vocab_size, embedding_dim, hidden_size)
-        self.decoder = Decoder(tgt_vocab_size, embedding_dim, hidden_size)
 
+        # Initialize encoder and decoder
+        self.encoder = Encoder(src_tokenizer.get_piece_size(), embedding_dim, hidden_size)
+        self.decoder = Decoder(tgt_tokenizer.get_piece_size(), embedding_dim, hidden_size)
+
+        # Store tokenizers and special token IDs
         self.src_tok = src_tokenizer
         self.tgt_tok = tgt_tokenizer
 
-        self.bos_id = bos_id
-        self.eos_id = eos_id
+        self.bos_id = tgt_tokenizer.bos_id()
+        self.eos_id = tgt_tokenizer.eos_id()
         self.max_decode_len = max_decode_len
 
+        # Define loss function and optimizer
         self.loss_fn = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True)
         self.optimizer = tf.keras.optimizers.Adam(0.001)
 
     def call(self, source_tokens, target_tokens):
+
+        # Encode source tokens
         _, h, c = self.encoder(source_tokens)
+
+        # Decode teacher forced target tokens
         decoder_logits, _, _ = self.decoder(target_tokens, (h, c))
+
         return decoder_logits
     
     def _train_batch(self, src_batch, tgt_batch):
@@ -87,6 +109,7 @@ class Seq2Seq(tf.keras.Model):
         # decoder_out = tokens[1:] + EOS
         decoder_out = tgt_batch[:, 1:]
 
+        # Keep track of gradients
         with tf.GradientTape() as tape:
             logits = self(src_batch, decoder_in)
             loss = self.loss_fn(decoder_out, logits)
@@ -95,20 +118,13 @@ class Seq2Seq(tf.keras.Model):
         grads = tape.gradient(loss, self.trainable_variables)
         self.optimizer.apply_gradients(zip(grads, self.trainable_variables))
 
-        # Compute accuracy
-        preds = tf.argmax(logits, axis=-1, output_type=tf.int32)
-        accuracy = tf.reduce_mean(
-            tf.cast(tf.equal(preds, decoder_out), tf.float32)
-        )
-
-        return loss, accuracy
+        return loss
     
     def train(
         self,
         token_pairs,
+        epochs,
         batch_size=32,
-        epochs=3,
-        pad_id=0,
         val_path=None
     ):
 
@@ -122,10 +138,10 @@ class Seq2Seq(tf.keras.Model):
 
         # Pad sequences with pad_token
         src_padded = tf.keras.preprocessing.sequence.pad_sequences(
-            src_sequences, maxlen=max_src, padding='post', value=pad_id
+            src_sequences, maxlen=max_src, padding='post', value=self.src_tok.pad_id()
         )
         tgt_padded = tf.keras.preprocessing.sequence.pad_sequences(
-            tgt_sequences, maxlen=max_tgt, padding='post', value=pad_id
+            tgt_sequences, maxlen=max_tgt, padding='post', value=self.tgt_tok.pad_id()
         )
 
         # Create TensorFlow dataset from padded sequences
@@ -140,31 +156,29 @@ class Seq2Seq(tf.keras.Model):
             for step, (src_batch, tgt_batch) in enumerate(dataset, start=1):
 
                 # Perform a training step
-                loss, acc = self._train_batch(src_batch, tgt_batch)
+                loss = self._train_batch(src_batch, tgt_batch)
 
-            # Calculate performance on validation set every 2 epochs
-            if val_path and epoch % 1 == 0:
-                print("\nRunning validation...")
-                run_validation(val_path, self)
+                # Print loss every 10 steps
+                if step % 10 == 0:
+                    print(f" Step {step}, Loss: {loss.numpy():.4f}", end="\r")
 
-    
-    def export(self, export_dir):
+    def export(self, export_dir, prefix="seq2seq_model"):
     
         # Create export directory if it doesn't exist
         os.makedirs(export_dir, exist_ok=True)
 
         # Save encoder and decoder weights separately
-        encoder_path = os.path.join(export_dir, "encoder_weights")
-        decoder_path = os.path.join(export_dir, "decoder_weights")
+        encoder_path = os.path.join(export_dir, f"{prefix}_encoder.weights.h5")
+        decoder_path = os.path.join(export_dir, f"{prefix}_decoder.weights.h5")
 
         self.encoder.save_weights(encoder_path)
         self.decoder.save_weights(decoder_path)
 
-    def load(self, export_dir):
+    def load(self, export_dir, prefix="seq2seq_model"):
 
         # Load encoder and decoder weights separately
-        encoder_path = os.path.join(export_dir, "encoder_weights")
-        decoder_path = os.path.join(export_dir, "decoder_weights")
+        encoder_path = os.path.join(export_dir, f"{prefix}_encoder.weights.h5")
+        decoder_path = os.path.join(export_dir, f"{prefix}_decoder.weights.h5")
 
         self.encoder.load_weights(encoder_path)
         self.decoder.load_weights(decoder_path)

@@ -33,9 +33,9 @@ def compute_comet(sources, predictions, references):
     ]
 
     # Get COMET score
-    score = model.predict(comet_inputs, gpus=0)["mean"]
+    score = model.predict(comet_inputs, gpus=0)
 
-    return float(score)
+    return float(score.system_score)
 
 
 

@@ -1,43 +1,10 @@
 import json
-from pathlib import Path
 import sentencepiece as spm
 
 
 
-def load_train_jsonl(jsonl_path: str):
-
-    # Initialze return object
-    text_pairs = []
-
-    # Open the train file and iterate over JSON objects
-    with open(jsonl_path, "r", encoding="utf-8") as file:
-        for i, line in enumerate(file, start=1):
-
-            # Skip empty lines
-            line = line.strip()
-            if not line:
-                continue
-
-            # Read the JSON object and extract text pair
-            try:
-                obj = json.loads(line)
-
-                # Ensure source and target keys exist
-                if 'source' in obj and 'target' in obj:
-                    text_pairs.append((obj['source'], obj['target']))
-                
-                else:
-                    print(f"Missing 'source' or 'target' at line {i}")
-            
-            # Handle exceptions
-            except Exception as e:
-                print(f"Error at line {i}: {e}")
-
-    return text_pairs
-
-
-
-def load_eval_jsonl(jsonl_path: str):
+# Load JSONL file - extracts text pairs or full objects
+def load_jsonl(jsonl_path: str, only_text_pairs = False):
     
     # Initialze return object
     data = []
@@ -55,7 +22,19 @@ def load_eval_jsonl(jsonl_path: str):
             try:
                 obj = json.loads(line)
 
-                data.append(obj)
+                # If text pairs are requested, extract them
+                if only_text_pairs:
+
+                    # Ensure source and target keys exist
+                    if 'source' in obj and 'target' in obj:
+                        data.append((obj['source'], obj['target']))
+                
+                    else:
+                        print(f"Missing 'source' or 'target' at line {i}")
+
+                # Otherwise, append the full JSON object
+                else:
+                    data.append(obj)
             
             # Handle exceptions
             except Exception as e:

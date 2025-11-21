@@ -1,4 +1,4 @@
-from data import load_eval_jsonl
+from data import load_jsonl
 from metrics import compute_comet, compute_m_eta, harmonic_mean
 
 
@@ -6,7 +6,7 @@ from metrics import compute_comet, compute_m_eta, harmonic_mean
 def run_validation(eval_path, model):
 
     # Load eval dataset
-    eval_data = load_eval_jsonl(eval_path)
+    eval_data = load_jsonl(eval_path)
 
     # Initialize lists to track source, target, entities, and predictions
     source_texts = []
