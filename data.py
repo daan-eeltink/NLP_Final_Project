@@ -1,3 +1,4 @@
+import os
 import json
 import sentencepiece as spm
 
@@ -59,6 +60,9 @@ def train_sentencepiece_model(text_list, model_prefix, vocab_size=1000):
         vocab_size=vocab_size,
         pad_id=0, unk_id=1, bos_id=2, eos_id=3,
     )
+
+    # Remove the temporary text file
+    os.remove(f"{model_prefix}.txt")
 
 
 

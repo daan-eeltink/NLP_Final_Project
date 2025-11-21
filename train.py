@@ -49,7 +49,7 @@ def train_model(
     )
 
     print("Saving trained model")
-    model.export(model_export_dir)
+    model.export(model_export_dir, prefix="seq2seq")
     print(f"\tModel saved to: {model_export_dir}")
 
     print("Running evaluation")
@@ -87,7 +87,7 @@ def load_and_evaluate(
     _ = model.decoder(dummy_tgt, (h, c))
 
     print("Loading saved model weights")
-    model.load(model_export_dir)
+    model.load(model_export_dir, prefix="seq2seq")
 
     print("Running validation")
     run_validation(val_path, model)
@@ -99,14 +99,14 @@ def main():
     val_path = r"C:\Users\daane\Desktop\GitHub Repos\NLP_Final_Project\dataset\validation\de_DE.jsonl"
     model_export_dir = r"C:\Users\daane\Desktop\GitHub Repos\NLP_Final_Project\checkpoints\seq2seq"
 
-    train_model(
-        train_path=train_path,
-        val_path=val_path,
-        epochs=200,
-        sp_src_prefix="sp_en",
-        sp_tgt_prefix="sp_de",
-        model_export_dir=model_export_dir
-    )
+    # train_model(
+    #     train_path=train_path,
+    #     val_path=val_path,
+    #     epochs=200,
+    #     sp_src_prefix="sp_en",
+    #     sp_tgt_prefix="sp_de",
+    #     model_export_dir=model_export_dir
+    # )
 
     load_and_evaluate(
         val_path=val_path,
