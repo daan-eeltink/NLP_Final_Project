@@ -1,0 +1,852 @@
+sentence_id,entity_tag,entity_category,entity_src
+Q100268160_0,<entity1>,['TV series'],The Mole – Undercover
+Q100268160_0,<entity2>,['TV series'],North Korea
+Q100268160_1,<entity1>,['TV series'],The Mole – Undercover in North Korea
+Q100268160_2,<entity1>,['TV series'],The Mole
+Q100268160_2,<entity2>,['TV series'],Undercover
+Q100268160_2,<entity3>,['TV series'],North Korea
+Q1012958_0,<entity1>,['Landmark'],Liebenzell Castle
+Q1012958_1,<entity1>,['Landmark'],Liebenzell Castle
+Q1012958_2,<entity1>,['Landmark'],Liebenzell Castle
+Q1056568_0,<entity1>,['Movie'],Warning Sign
+Q1056568_1,<entity1>,['Movie'],Warning Sign
+Q1056568_2,<entity1>,['Movie'],Warning Sign
+Q1072093_0,<entity1>,['Food'],United States
+Q1072093_1,<entity1>,['Food'],United States
+Q1072093_2,<entity1>,['Food'],United States
+Q10860912_0,<entity1>,"['Person', 'Fictional entity']",Griffin
+Q10860912_1,<entity1>,"['Person', 'Fictional entity']",Griffin
+Q10860912_2,<entity1>,"['Person', 'Fictional entity']",Griffin
+Q1087216_0,<entity1>,['Musical work'],Christ
+Q1087216_0,<entity2>,['Musical work'],Mount of Olives
+Q1087216_1,<entity1>,['Musical work'],Christ on the Mount of Olives
+Q1087216_2,<entity1>,['Musical work'],Beethoven
+Q1087216_2,<entity2>,['Musical work'],Christ on the Mount of Olives
+Q109658712_0,<entity1>,['TV series'],Anxious People
+Q109658712_1,<entity1>,['TV series'],Anxious People
+Q109658712_2,<entity1>,['TV series'],Anxious People
+Q1110797_0,<entity1>,['Movie'],"Good Morning, Miss Dove"
+Q1110797_1,<entity1>,['Movie'],"Good Morning, Miss Dove"
+Q1110797_2,<entity1>,['Movie'],"Good Morning, Miss Dove"
+Q111474934_0,<entity1>,['TV series'],The Lesson
+Q111474934_1,<entity1>,['TV series'],The Lesson
+Q111474934_2,<entity1>,['TV series'],The Lesson
+Q111961959_0,<entity1>,['TV series'],Love Like The Galaxy
+Q111961959_1,<entity1>,['TV series'],Love Like The Galaxy
+Q111961959_2,<entity1>,['TV series'],Love Like The Galaxy
+Q1144080_0,<entity1>,['Movie'],Till Marriage Do Us Part
+Q1144080_1,<entity1>,['Movie'],Till Marriage Do Us Part
+Q1144080_2,<entity1>,['Movie'],Till Marriage Do Us Part
+Q1152142_0,<entity1>,['Fictional entity'],DC Multiverse
+Q1152142_1,<entity1>,['Fictional entity'],DC Multiverse Earth
+Q1152142_1,<entity2>,['Fictional entity'],Justice League
+Q1152142_2,<entity1>,['Fictional entity'],DC Multiverse
+Q116945637_0,<entity1>,['Movie'],All Your Faces
+Q116945637_1,<entity1>,['Movie'],All Your Faces
+Q116945637_2,<entity1>,['Movie'],All Your Faces
+Q1190888_0,<entity1>,"['Artwork', 'Book']",The Mote in God's Eye
+Q1190888_1,<entity1>,"['Artwork', 'Book']",The Mote in God's Eye
+Q1190888_2,<entity1>,"['Artwork', 'Book']",The Mote in God's Eye
+Q1195553_0,<entity1>,['Movie'],The Wonderful World of Puss 'n Boots
+Q1195553_1,<entity1>,['Movie'],The Wonderful World of Puss 'n Boots
+Q1195553_2,<entity1>,['Movie'],The Wonderful World of Puss 'n Boots
+Q1203306_0,<entity1>,"['Book series', 'TV series']",Embracing Love
+Q1203306_1,<entity1>,"['Book series', 'TV series']",Embracing Love
+Q1203306_2,<entity1>,"['Book series', 'TV series']",Embracing Love
+Q1204959_0,<entity1>,['Fictional entity'],Ministry of Truth
+Q1204959_0,<entity2>,['Fictional entity'],Oceania
+Q1204959_2,<entity1>,['Fictional entity'],Ministry of Truth
+Q1216303_0,<entity1>,"['Artwork', 'Book']",Orpheus
+Q1216303_0,<entity2>,"['Artwork', 'Book']",Sonnets to Orpheus
+Q1216303_1,<entity1>,"['Artwork', 'Book']",Sonnets to Orpheus
+Q1216303_2,<entity1>,"['Artwork', 'Book']",Sonnets to Orpheus
+Q1230632_0,<entity1>,['TV series'],Tinker Tailor Soldier Spy
+Q1230632_1,<entity1>,['TV series'],Tinker Tailor Soldier Spy
+Q1230632_2,<entity1>,['TV series'],Tinker Tailor Soldier Spy
+Q1235125_0,<entity1>,['Book'],Into the Wild
+Q1235125_1,<entity1>,['Book'],Into the Wild
+Q1235125_2,<entity1>,['Book'],Into the Wild
+Q1242146_0,<entity1>,"['Place of worship', 'Landmark']",Donskoy Monastery
+Q1242146_1,<entity1>,"['Place of worship', 'Landmark']",Donskoy Monastery
+Q1242146_2,<entity1>,"['Place of worship', 'Landmark']",Donskoy Monastery
+Q1257747_0,<entity1>,['Landmark'],Trinity Church
+Q1257747_0,<entity2>,['Landmark'],Nikitniki
+Q1257747_1,<entity1>,['Landmark'],Trinity Church
+Q1257747_1,<entity2>,['Landmark'],Nikitniki
+Q1257747_2,<entity1>,['Landmark'],Trinity Church
+Q1257747_2,<entity2>,['Landmark'],Nikitniki
+Q1264983_0,<entity1>,['TV series'],The Man from U.N.C.L.E
+Q1264983_1,<entity1>,['TV series'],The Man from U.N.C.L.E.
+Q1264983_2,<entity1>,['TV series'],The Man from U.N.C.L.E
+Q126877_0,<entity1>,"['Landmark', 'Natural place']",Gorky Park
+Q126877_1,<entity1>,"['Landmark', 'Natural place']",Gorky Park
+Q126877_2,<entity1>,"['Landmark', 'Natural place']",Gorky Park
+Q1305660_0,<entity1>,['TV series'],In the House
+Q1305660_0,<entity2>,['TV series'],In the House
+Q1305660_1,<entity1>,['TV series'],In the House
+Q1305660_1,<entity2>,['TV series'],In the House
+Q1305660_2,<entity1>,['TV series'],In the House
+Q1305660_2,<entity2>,['TV series'],In the House
+Q131119_0,<entity1>,"['Artwork', 'Book']",First Epistle
+Q131119_0,<entity2>,"['Artwork', 'Book']",of Peter
+Q131119_0,<entity3>,"['Artwork', 'Book']",Christianity
+Q131119_1,<entity1>,"['Artwork', 'Book']",Peter
+Q131119_2,<entity1>,"['Artwork', 'Book']",First Epistle
+Q131119_2,<entity2>,"['Artwork', 'Book']",Peter
+Q13407659_0,<entity1>,['TV series'],Valley of the Wolves
+Q13407659_1,<entity1>,['TV series'],Valley of the Wolves
+Q13407659_2,<entity1>,['TV series'],Valley of the Wolves
+Q13501123_0,<entity1>,['TV series'],Worzel Gummidge
+Q13501123_1,<entity1>,['TV series'],Worzel Gummidge
+Q13501123_2,<entity1>,['TV series'],Worzel Gummidge
+Q1367269_0,<entity1>,['Landmark'],Moscow Belorussky
+Q1367269_0,<entity2>,['Landmark'],station
+Q1367269_1,<entity1>,['Landmark'],Moscow Belorussky
+Q1367269_2,<entity1>,['Landmark'],Moscow Belorussky railway station
+Q1381934_0,<entity1>,['Landmark'],Ipatiev House
+Q1381934_1,<entity1>,['Landmark'],Ipatiev House
+Q1381934_2,<entity1>,['Landmark'],Ipatiev House
+Q140527_0,<entity1>,['Artwork'],The Three Musketeers
+Q140527_1,<entity1>,['Artwork'],The Three Musketeers
+Q140527_2,<entity1>,['Artwork'],The Three Musketeers
+Q1408916_0,<entity1>,['Landmark'],Ivangorod Fortress
+Q1408916_1,<entity1>,['Landmark'],Ivangorod Fortress
+Q1408916_2,<entity1>,['Landmark'],Ivangorod Fortress
+Q1413856_0,<entity1>,['Musical work'],Geographical Fugue
+Q1413856_1,<entity1>,['Musical work'],Fugue
+Q1416458_0,<entity1>,"['Artwork', 'Book']",Stand on Zanzibar
+Q1416458_1,<entity1>,"['Artwork', 'Book']",Stand on Zanzibar
+Q1416458_2,<entity1>,"['Artwork', 'Book']",Stand on Zanzibar
+Q1417153_0,<entity1>,['Person'],Finger Snail
+Q1417153_1,<entity1>,['Person'],Finger Snail
+Q1417153_2,<entity1>,['Person'],Finger Snail
+Q1417153_2,<entity2>,['Person'],Egypt
+Q1417441_0,<entity1>,['Landmark'],St Volodymyr's Cathedral
+Q1417441_1,<entity1>,['Landmark'],St Volodymyr
+Q1417441_1,<entity2>,['Landmark'],'s Cathedral
+Q1417441_2,<entity1>,['Landmark'],St Volodymyr's Cathedral
+Q1424212_0,<entity1>,"['Fictional entity', 'Person']",Rossi
+Q1424212_1,<entity1>,"['Fictional entity', 'Person']",Rossi
+Q1424212_2,<entity1>,"['Fictional entity', 'Person']",Mr. Rossi
+Q1432585_0,<entity1>,['Landmark'],Kazansky railway station
+Q1432585_1,<entity1>,['Landmark'],Kazansky railway station
+Q1432585_2,<entity1>,['Landmark'],Kazansky railway station
+Q1432585_2,<entity2>,['Landmark'],Moscow
+Q1444768_0,<entity1>,['Movie'],Son of Godzilla
+Q1444768_1,<entity1>,['Movie'],Son of Godzilla
+Q1444768_2,<entity1>,['Movie'],Son of Godzilla
+Q1449713_0,<entity1>,"['Artwork', 'Book']",Hours of Philip the Bold
+Q1449713_1,<entity1>,"['Artwork', 'Book']",Hours of Philip the Bold
+Q1449713_2,<entity1>,"['Artwork', 'Book']",Hours of Philip the Bold
+Q1504526_0,<entity1>,"['Fictional entity', 'Person']",Comic Book Guy
+Q1504526_2,<entity1>,"['Fictional entity', 'Person']",Comic
+Q1504526_2,<entity2>,"['Fictional entity', 'Person']",Book Guy
+Q1517519_0,<entity1>,['Book'],The Book of the Courtier
+Q1517519_1,<entity1>,['Book'],The Book of the Courtier
+Q1517519_2,<entity1>,['Book'],The Book of the Courtier
+Q1523586_0,<entity1>,['Movie'],A Hatful of Rain
+Q1523586_1,<entity1>,['Movie'],A Hatful of Rain
+Q1523586_2,<entity1>,['Movie'],A Hatful of Rain
+Q15260610_0,<entity1>,['TV series'],One in one!
+Q15260610_1,<entity1>,['TV series'],One in one!
+Q15260610_2,<entity1>,['TV series'],Russian
+Q15260610_2,<entity2>,['TV series'],One in one!
+Q15299082_0,<entity1>,['TV series'],Turkish
+Q15299082_0,<entity2>,['TV series'],Do not worry for me
+Q15299082_1,<entity1>,['TV series'],Do not worry for me
+Q15299082_2,<entity1>,['TV series'],Do not worry for me
+Q1545219_0,<entity1>,"['Fictional entity', 'Person']",Father Brown
+Q1545219_1,<entity1>,"['Fictional entity', 'Person']",Father Brown
+Q1545219_2,<entity1>,"['Fictional entity', 'Person']",Father Brown
+Q154563_0,<entity1>,['Place of worship'],Berlin Cathedral
+Q154563_1,<entity1>,['Place of worship'],Berlin Cathedral
+Q1548449_0,<entity1>,['Place of worship'],Great Synagogue
+Q1548449_0,<entity2>,['Place of worship'],Czech Republic
+Q1548449_1,<entity1>,['Place of worship'],Great Synagogue
+Q1548449_1,<entity2>,['Place of worship'],Plzeň
+Q1548449_2,<entity1>,['Place of worship'],Great Synagogue
+Q15635278_0,<entity1>,['TV series'],Very Good Times
+Q15635278_0,<entity2>,['TV series'],South Korea
+Q15635278_1,<entity1>,['TV series'],Very Good Times
+Q15635278_2,<entity1>,['TV series'],South Korean
+Q15635278_2,<entity2>,['TV series'],Very Good Times
+Q1579157_0,<entity1>,['Artwork'],Mount Royal Cross
+Q1579157_1,<entity1>,['Artwork'],Mount Royal Cross
+Q1579157_2,<entity1>,['Artwork'],Mount Royal Cross
+Q1579960_0,<entity1>,['Movie'],I Never Sang for My Father
+Q1579960_1,<entity1>,['Movie'],I Never Sang for My Father
+Q1579960_2,<entity1>,['Movie'],I Never Sang for My Father
+Q15804357_0,<entity1>,['Movie'],Quality Time
+Q15804357_1,<entity1>,['Movie'],Quality Time
+Q15804357_2,<entity1>,['Movie'],Quality Time
+Q1585564_0,<entity1>,['Place of worship'],Sakya Monastery
+Q1585564_1,<entity1>,['Place of worship'],Sakya Monastery
+Q1585564_2,<entity1>,['Place of worship'],Sakya Monastery
+Q1585564_2,<entity2>,['Place of worship'],People's Republic of China
+Q160341_0,<entity1>,['Person'],Edward IV
+Q160341_0,<entity2>,['Person'],England
+Q161106_0,<entity1>,['Person'],Konstantin Pavlovich
+Q161106_0,<entity2>,['Person'],Russia
+Q16150399_1,<entity1>,['TV series'],American Gangster
+Q16150399_2,<entity1>,['TV series'],American Gangster
+Q162935_0,<entity1>,['Musical work'],Piano Concerto No. 1
+Q162935_1,<entity1>,['Musical work'],Piano Concerto No. 1
+Q162935_2,<entity1>,['Musical work'],Piano Concerto No. 1
+Q163493_0,<entity1>,['Musical work'],Symphony No. 1
+Q163493_1,<entity1>,['Musical work'],Symphony No. 1
+Q163493_2,<entity1>,['Musical work'],Symphony No. 1
+Q163600_0,<entity1>,['Musical work'],Symphony No. 1
+Q163600_1,<entity1>,['Musical work'],Symphony No. 1
+Q163600_2,<entity1>,['Musical work'],Symphony No. 1
+Q16387049_0,<entity1>,"['Artwork', 'Book']",Mistborn: Shadows of Self
+Q16387049_1,<entity1>,"['Artwork', 'Book']",Mistborn: Shadows of Self
+Q16387049_2,<entity1>,"['Artwork', 'Book']",Mistborn: Shadows of Self
+Q164216_0,<entity1>,['Place of worship'],Monastery of Saint Naum
+Q164216_1,<entity1>,['Place of worship'],Monastery of Saint Naum
+Q164216_2,<entity1>,['Place of worship'],Monastery of Saint Naum
+Q1648509_0,<entity1>,"['Fictional entity', 'Person']",Marya Bolkonskaya
+Q1648509_0,<entity2>,"['Fictional entity', 'Person']",Andrei
+Q1648509_1,<entity1>,"['Fictional entity', 'Person']",Marya Bolkonskaya
+Q1648509_2,<entity1>,"['Fictional entity', 'Person']",Marya Bolkonskaya
+Q172077_0,<entity1>,['Place of worship'],Dome of the Rock
+Q172077_1,<entity1>,['Place of worship'],Dome of the Rock
+Q172077_2,<entity1>,['Place of worship'],Dome of the Rock
+Q1739780_0,<entity1>,['Movie'],"Dirty Mary, Crazy Larry"
+Q1739780_1,<entity1>,['Movie'],Dirty Mary
+Q1739780_1,<entity2>,['Movie'],Crazy Larry
+Q1739780_2,<entity1>,['Movie'],"Dirty Mary, Crazy Larry"
+Q1751487_0,<entity1>,['Landmark'],Platov South-Russian State Polytechnic University
+Q1751487_1,<entity1>,['Landmark'],Platov South-Russian State Polytechnic University
+Q1751487_2,<entity1>,['Landmark'],Platov South-Russian State Polytechnic University
+Q1762893_0,<entity1>,['Food'],Romaine
+Q1768389_0,<entity1>,"['Artwork', 'Book']",The Holocaust Industry
+Q1768389_1,<entity1>,"['Artwork', 'Book']",The Holocaust Industry
+Q1768389_2,<entity1>,"['Artwork', 'Book']",The Holocaust Industry
+Q1768389_2,<entity2>,"['Artwork', 'Book']",Holocaust
+Q1813571_0,<entity1>,['Artwork'],Apocalypse of Pseudo-Methodius
+Q1813571_0,<entity2>,['Artwork'],Syriac Christian
+Q1813571_1,<entity1>,['Artwork'],Apocalypse of Pseudo-Methodius
+Q1813571_2,<entity1>,['Artwork'],Apocalypse of Pseudo-Methodius
+Q187499_0,<entity1>,"['Place of worship', 'Artwork']",Shrine of Bahá'u'lláh
+Q187499_1,<entity1>,"['Place of worship', 'Artwork']",Shrine of Bahá'u'lláh
+Q187499_2,<entity1>,"['Place of worship', 'Artwork']",Shrine of Bahá'u'lláh
+Q18786543_0,<entity1>,['Artwork'],Everything I Never Told You: A Novel
+Q18786543_1,<entity1>,['Artwork'],Everything I Never Told You: A Novel
+Q18786543_2,<entity1>,['Artwork'],Everything I Never Told You: A Novel
+Q18786543_2,<entity2>,['Artwork'],Celeste Ng
+Q191362_0,<entity1>,['Musical work'],Piano Concerto No. 15
+Q191362_1,<entity1>,['Musical work'],Piano Concerto No. 15
+Q191362_1,<entity2>,['Musical work'],Mozart
+Q191362_2,<entity1>,['Musical work'],Piano Concerto No. 15
+Q191362_2,<entity2>,['Musical work'],Mozart
+Q196161_0,<entity1>,['Place of worship'],Cathedral of Ani
+Q196161_0,<entity2>,['Place of worship'],Armenian
+Q196161_1,<entity1>,['Place of worship'],Cathedral of Ani
+Q196161_2,<entity1>,['Place of worship'],Cathedral of Ani
+Q1970746_0,<entity1>,['Book'],Explanatory Dictionary of the Living Great Russian Language
+Q1970746_1,<entity1>,['Book'],Explanatory Dictionary of the Living Great Russian Language
+Q1970746_2,<entity1>,['Book'],Explanatory Dictionary of the Living Great Russian Language
+Q1975060_0,<entity1>,['Book'],Screw Style
+Q1975060_1,<entity1>,['Book'],Screw Style
+Q1975060_2,<entity1>,['Book'],Screw Style
+Q20107429_0,<entity1>,['Person'],Nicolas
+Q20107429_0,<entity2>,['Person'],Ångermanland
+Q20107429_1,<entity1>,['Person'],Nicolas
+Q20107429_1,<entity2>,['Person'],Ångermanland
+Q20107429_2,<entity1>,['Person'],Nicolas
+Q20107429_2,<entity2>,['Person'],Ångermanland
+Q2030868_0,<entity1>,['TV series'],All Dogs Go to Heaven: The Series
+Q2030868_1,<entity1>,['TV series'],All Dogs Go to Heaven: The Series
+Q2030868_2,<entity1>,['TV series'],All Dogs Go to Heaven: The Series
+Q2045474_0,<entity1>,"['Artwork', 'Book']",Time of Contempt
+Q2045474_1,<entity1>,"['Artwork', 'Book']",Time of Contempt
+Q2045474_2,<entity1>,"['Artwork', 'Book']",Time of Contempt
+Q2057743_0,<entity1>,['TV series'],Born Free
+Q2057743_1,<entity1>,['TV series'],Born Free
+Q2057743_2,<entity1>,['TV series'],Born Free
+Q2062054_0,<entity1>,['Place of worship'],Mar Mattai
+Q2062054_1,<entity1>,['Place of worship'],Mar Mattai
+Q2062054_2,<entity1>,['Place of worship'],Mar Mattai
+Q2078564_0,<entity1>,"['Artwork', 'Book']",Guards! Guards
+Q2078564_1,<entity1>,"['Artwork', 'Book']",Guards! Guards!
+Q2078564_2,<entity1>,"['Artwork', 'Book']",Guards! Guards!
+Q2083761_0,<entity1>,['Place of worship'],Rochefort Abbey
+Q2083761_1,<entity1>,['Place of worship'],Rochefort Abbey
+Q2083761_2,<entity1>,['Place of worship'],Rochefort Abbey
+Q209515_0,<entity1>,['Artwork'],Book of One Thousand and One Nights
+Q209515_0,<entity2>,['Artwork'],Aladdin
+Q209515_0,<entity3>,['Artwork'],Wonderful Lamp
+Q209515_1,<entity1>,['Artwork'],Aladdin and the Wonderful Lamp
+Q209515_2,<entity1>,['Artwork'],Aladdin
+Q209515_2,<entity2>,['Artwork'],Wonderful Lamp
+Q209515_2,<entity3>,['Artwork'],Middle Eastern
+Q210549_0,<entity1>,['Musical work'],Symphony No. 2
+Q210549_1,<entity1>,['Musical work'],Symphony No. 2
+Q210549_2,<entity1>,['Musical work'],Symphony No. 2
+Q21146531_0,<entity1>,['Movie'],Tatort: Burned
+Q21146531_1,<entity1>,['Movie'],Tatort: Burned
+Q21146531_2,<entity1>,['Movie'],Tatort: Burned
+Q2203334_0,<entity1>,['Fictional entity'],Master Sword
+Q2203334_0,<entity2>,['Fictional entity'],Legend of Zelda
+Q2203334_1,<entity1>,['Fictional entity'],Master Sword
+Q2203334_1,<entity2>,['Fictional entity'],The Legend of Zelda
+Q2203334_2,<entity1>,['Fictional entity'],Master Sword
+Q2203334_2,<entity2>,['Fictional entity'],The Legend of Zelda
+Q2204257_0,<entity1>,['Food'],Liege
+Q2204257_1,<entity1>,['Food'],Liege
+Q2204257_2,<entity1>,['Food'],Liege
+Q223533_0,<entity1>,['Musical work'],Symphony No. 3
+Q223533_1,<entity1>,['Musical work'],Symphony No. 3
+Q223533_2,<entity1>,['Musical work'],Symphony No. 3
+Q2236899_0,<entity1>,['Artwork'],Battle of Cascina
+Q2236899_1,<entity1>,['Artwork'],Michelangelo
+Q2236899_1,<entity2>,['Artwork'],Battle of Cascina
+Q2236899_2,<entity1>,['Artwork'],Battle of Cascina
+Q2258329_0,<entity1>,"['Artwork', 'Book']",Anne Rice
+Q2258329_0,<entity2>,"['Artwork', 'Book']",The Witching Hour
+Q2258329_1,<entity1>,"['Artwork', 'Book']",The Witching Hour
+Q2258329_2,<entity1>,"['Artwork', 'Book']",The Witching Hour
+Q226936_0,<entity1>,['Musical work'],Symphony No. 36
+Q226936_1,<entity1>,['Musical work'],Symphony No. 36
+Q226936_2,<entity1>,['Musical work'],Symphony No. 36
+Q2273327_0,<entity1>,['Place of worship'],Mezhyhirya Monastery
+Q2273327_1,<entity1>,['Place of worship'],Mezhyhirya Monastery
+Q2273327_2,<entity1>,['Place of worship'],Mezhyhirya Monastery
+Q229189_0,<entity1>,['Person'],Joan I
+Q229189_0,<entity2>,['Person'],Navarre
+Q229189_1,<entity1>,['Person'],Joan I of Navarre
+Q229189_2,<entity1>,['Person'],Joan I of
+Q229189_2,<entity2>,['Person'],Navarre
+Q230255_0,<entity1>,['Artwork'],4 Maccabees
+Q230255_1,<entity1>,['Artwork'],4 Maccabees
+Q230255_2,<entity1>,['Artwork'],4 Maccabees
+Q231162_0,<entity1>,['Musical work'],Symphony No. 4
+Q231162_0,<entity2>,['Musical work'],Anton Bruckner
+Q231162_1,<entity1>,['Musical work'],Symphony No. 4
+Q231162_1,<entity2>,['Musical work'],Anton Bruckner
+Q231162_2,<entity1>,['Musical work'],Symphony No. 4
+Q231282_0,<entity1>,['Musical work'],Symphony No. 4
+Q231282_1,<entity1>,['Musical work'],Symphony No. 4
+Q231282_2,<entity1>,['Musical work'],Symphony No. 4
+Q231282_2,<entity2>,['Musical work'],Pyotr Ilyich Tchaikovsky
+Q232938_0,<entity1>,['Movie'],Carry On Nurse
+Q232938_1,<entity1>,['Movie'],Carry On Nurse
+Q232938_2,<entity1>,['Movie'],Nurse
+Q23296514_0,<entity1>,['Place of worship'],Wat Sam Phran
+Q23296514_1,<entity1>,['Place of worship'],Wat Sam Phran
+Q23296514_2,<entity1>,['Place of worship'],Wat Sam Phran
+Q233562_0,<entity1>,['Artwork'],The Wealth of Nations
+Q233562_1,<entity1>,['Artwork'],The Wealth of Nations
+Q233562_2,<entity1>,['Artwork'],The Wealth of Nations
+Q238539_0,<entity1>,['Person'],Fawzia Fuad
+Q238539_1,<entity1>,['Person'],Fawzia Fuad
+Q238539_2,<entity1>,['Person'],Fawzia Fuad
+Q2404788_1,<entity1>,['Fictional entity'],Seamus O'Hara
+Q2404788_1,<entity2>,['Fictional entity'],Disney
+Q2414756_0,<entity1>,"['Artwork', 'Book']",The Last Wish
+Q2414756_1,<entity1>,"['Artwork', 'Book']",The Last Wish
+Q2414756_2,<entity1>,"['Artwork', 'Book']",The Last Wish
+Q2415527_0,<entity1>,['Person'],Adelaide
+Q2415527_0,<entity2>,['Person'],Normandy
+Q2415527_1,<entity1>,['Person'],Adelaide
+Q2415527_1,<entity2>,['Person'],Normandy
+Q2415527_2,<entity1>,['Person'],Adelaide
+Q2415527_2,<entity2>,['Person'],Normandy
+Q242270_0,<entity1>,['Person'],Hecataeus
+Q242270_0,<entity2>,['Person'],Miletus
+Q242270_1,<entity1>,['Person'],Hecataeus
+Q242270_1,<entity2>,['Person'],Miletus
+Q242270_2,<entity1>,['Person'],Hecataeus
+Q242270_2,<entity2>,['Person'],Miletus
+Q2454607_0,<entity1>,['Place of worship'],Bradford Cathedral
+Q2454607_0,<entity2>,['Place of worship'],West Yorkshire
+Q2454607_0,<entity3>,['Place of worship'],England
+Q2454607_1,<entity1>,['Place of worship'],Bradford Cathedral
+Q2454607_2,<entity1>,['Place of worship'],Bradford Cathedral
+Q246487_0,<entity1>,['Musical work'],Symphony No. 6
+Q246487_1,<entity1>,['Musical work'],Symphony No. 6
+Q246487_2,<entity1>,['Musical work'],Symphony No. 6
+Q2479670_0,<entity1>,['Fictional entity'],Bleeding Gums Murphy
+Q2479670_0,<entity2>,['Fictional entity'],The Simpsons
+Q2479670_1,<entity1>,['Fictional entity'],Bleeding Gums Murphy
+Q2479670_2,<entity1>,['Fictional entity'],Bleeding Gums Murphy
+Q2585441_0,<entity1>,['Book'],We Wish to Inform You That Tomorrow We Will
+Q2585441_1,<entity1>,['Book'],We Wish to Inform You That
+Q2585441_2,<entity1>,['Book'],We Wish to Inform You That
+Q259971_0,<entity1>,['Place of worship'],Andechs Abbey
+Q259971_1,<entity1>,['Place of worship'],Andechs Abbey
+Q259971_2,<entity1>,['Place of worship'],Andechs Abbey
+Q2605100_0,<entity1>,['Landmark'],Church of St. Martin the Confessor
+Q2605100_0,<entity2>,['Landmark'],Moscow
+Q2605100_1,<entity1>,['Landmark'],Church of St. Martin the Confessor
+Q2605100_1,<entity2>,['Landmark'],Moscow
+Q2605100_2,<entity1>,['Landmark'],Church of St. Martin the Confessor
+Q2605100_2,<entity2>,['Landmark'],Moscow
+Q260988_0,<entity1>,['Musical work'],Symphony No. 7
+Q260988_1,<entity1>,['Musical work'],Symphony No. 7
+Q260988_1,<entity2>,['Musical work'],Bruckner
+Q260988_2,<entity1>,['Musical work'],Symphony No. 7
+Q2612052_0,<entity1>,['Musical work'],String Quartet No. 3
+Q2612052_1,<entity1>,['Musical work'],String Quartet No. 3
+Q2612052_2,<entity1>,['Musical work'],String Quartet No. 3
+Q2617763_0,<entity1>,['Fictional entity'],Spacing Guild
+Q2617763_0,<entity2>,['Fictional entity'],Dune
+Q2617763_1,<entity1>,['Fictional entity'],Spacing Guild
+Q2617763_1,<entity2>,['Fictional entity'],Dune
+Q2617763_2,<entity1>,['Fictional entity'],Spacing Guild
+Q2634129_0,<entity1>,"['Artwork', 'Book']",The Scarlet Plague
+Q2634129_1,<entity1>,"['Artwork', 'Book']",The Scarlet Plague
+Q2634129_2,<entity1>,"['Artwork', 'Book']",The Scarlet Plague
+Q2638238_2,<entity1>,['Landmark'],Vyborg
+Q2638238_2,<entity2>,['Landmark'],station
+Q2657392_0,<entity1>,"['Artwork', 'Book']",The Hand of Oberon
+Q2657392_1,<entity1>,"['Artwork', 'Book']",The Hand of Oberon
+Q2657392_2,<entity1>,"['Artwork', 'Book']",The Hand of Oberon
+Q2663347_0,<entity1>,['Musical work'],"White Army, Black Baron"
+Q2663347_1,<entity1>,['Musical work'],White Army
+Q2663347_1,<entity2>,['Musical work'],Black Baron
+Q2663347_2,<entity1>,['Musical work'],White Army
+Q2663347_2,<entity2>,['Musical work'],Black Baron
+Q2691931_0,<entity1>,['Movie'],Twice in a Lifetime
+Q2691931_1,<entity1>,['Movie'],Twice in a Lifetime
+Q2691931_2,<entity1>,['Movie'],Twice in a Lifetime
+Q2712995_0,<entity1>,['Artwork'],Time to Live
+Q2712995_0,<entity2>,['Artwork'],Time to Die
+Q2712995_1,<entity1>,['Artwork'],Time to Live and
+Q2712995_1,<entity2>,['Artwork'],Time to Die
+Q2712995_2,<entity1>,['Artwork'],Time to Live
+Q2712995_2,<entity2>,['Artwork'],Time to Die
+Q2715152_0,<entity1>,['Artwork'],The Parnassus
+Q2715152_1,<entity1>,['Artwork'],The Parnassus
+Q2715152_2,<entity1>,['Artwork'],The Parnassus
+Q2719978_0,<entity1>,['Movie'],Pennies from Heaven
+Q2719978_1,<entity1>,['Movie'],Pennies from Heaven
+Q2719978_2,<entity1>,['Movie'],Pennies from Heaven
+Q272781_0,<entity1>,['Place of worship'],Jerónimos Monastery
+Q272781_1,<entity1>,['Place of worship'],Jerónimos Monastery
+Q272781_2,<entity1>,['Place of worship'],Jerónimos Monastery
+Q272781_2,<entity2>,['Place of worship'],Lisbon
+Q2739228_0,<entity1>,"['Person', 'Fictional entity']",Snow White and the Seven Dwarfs
+Q2739228_1,<entity1>,"['Person', 'Fictional entity']",Disney
+Q2739228_1,<entity2>,"['Person', 'Fictional entity']",Snow White
+Q2739228_2,<entity1>,"['Person', 'Fictional entity']",Snow White
+Q276569_0,<entity1>,['Place of worship'],Quba Mosque
+Q276569_1,<entity1>,['Place of worship'],Quba Mosque
+Q276569_2,<entity1>,['Place of worship'],Quba Mosque
+Q2820278_0,<entity1>,['Place of worship'],Ardèche
+Q2820278_0,<entity2>,['Place of worship'],France
+Q2820278_0,<entity3>,['Place of worship'],Our Lady of the Snows
+Q2820278_1,<entity1>,['Place of worship'],Our Lady of the Snows
+Q2820278_2,<entity1>,['Place of worship'],Our Lady of the Snows
+Q2820602_0,<entity1>,['Place of worship'],Mont Sainte-Odile Abbey
+Q2820602_1,<entity1>,['Place of worship'],Mont Sainte-Odile Abbey
+Q2820602_2,<entity1>,['Place of worship'],Mont Sainte-Odile Abbey
+Q2918397_0,<entity1>,['Movie'],The Bugs Bunny/
+Q2918397_0,<entity2>,['Movie'],Road Runner Movie
+Q2918397_1,<entity1>,['Movie'],The Bugs Bunny/
+Q2918397_1,<entity2>,['Movie'],Road Runner Movie
+Q2918397_2,<entity1>,['Movie'],The Bugs Bunny
+Q2918397_2,<entity2>,['Movie'],Road Runner Movie
+Q303756_0,<entity1>,['Landmark'],Saint
+Q303756_0,<entity2>,['Landmark'],Sophia Cathedral
+Q303756_0,<entity3>,['Landmark'],Novgorod
+Q303756_1,<entity1>,['Landmark'],Saint Sophia Cathedral
+Q303756_1,<entity2>,['Landmark'],Novgorod
+Q303756_2,<entity1>,['Landmark'],Saint Sophia Cathedral
+Q303756_2,<entity2>,['Landmark'],Novgorod
+Q305419_0,<entity1>,['Place of worship'],Basilica of Our Lady of Guadalupe
+Q305419_0,<entity2>,['Place of worship'],Mexican
+Q305419_1,<entity1>,['Place of worship'],Basilica of Our Lady of Guadalupe
+Q305419_2,<entity1>,['Place of worship'],Basilica of Our Lady of Guadalupe
+Q310549_0,<entity1>,['Musical work'],Mass
+Q310549_1,<entity1>,['Musical work'],Mass
+Q310549_2,<entity1>,['Musical work'],Mass
+Q312491_0,<entity1>,['Person'],John Malalas
+Q312491_1,<entity1>,['Person'],John Malalas
+Q312491_2,<entity1>,['Person'],John Malalas
+Q3133305_0,<entity1>,['Musical work'],String Quartet No. 21
+Q3133305_1,<entity1>,['Musical work'],String Quartet No. 21
+Q3133305_2,<entity1>,['Musical work'],String Quartet No. 21
+Q31416_0,<entity1>,"['Place of worship', 'Landmark']",Antoniev Monastery
+Q31416_1,<entity1>,"['Place of worship', 'Landmark']",Antoniev Monastery
+Q31416_2,<entity1>,"['Place of worship', 'Landmark']",Antoniev Monastery
+Q3206562_0,<entity1>,['Movie'],Slave Girl
+Q3206562_1,<entity1>,['Movie'],Slave Girl
+Q3206562_2,<entity1>,['Movie'],Slave Girl
+Q3224451_0,<entity1>,['Artwork'],The Stationmaster
+Q3224451_1,<entity1>,['Artwork'],The Stationmaster
+Q3224451_2,<entity1>,['Artwork'],The Stationmaster
+Q3233113_0,<entity1>,['Movie'],Warriors of Virtue
+Q3233113_1,<entity1>,['Movie'],Warriors of Virtue
+Q3233113_2,<entity1>,['Movie'],Warriors of Virtue
+Q333280_1,<entity1>,['Musical work'],G
+Q334199_0,<entity1>,['Place of worship'],Monastery of Saint-Paul-de-Mausole
+Q334199_1,<entity1>,['Place of worship'],Monastery of Saint-Paul-de-Mausole
+Q334199_2,<entity1>,['Place of worship'],Monastery of Saint-Paul-de-Mausole
+Q3369166_0,<entity1>,['Movie'],"Can You Whistle, Johanna"
+Q3369166_1,<entity1>,['Movie'],"Can You Whistle, Johanna"
+Q3369166_2,<entity1>,['Movie'],Johanna
+Q3369166_2,<entity2>,['Movie'],"Can You Whistle, Johanna"
+Q347374_0,<entity1>,['Person'],Gustaf Adolf
+Q347374_0,<entity2>,['Person'],Västerbotten
+Q347374_1,<entity1>,['Person'],Gustaf Adolf
+Q347374_1,<entity2>,['Person'],Västerbotten
+Q347374_2,<entity1>,['Person'],Gustaf Adolf
+Q347374_2,<entity2>,['Person'],Västerbotten
+Q3485664_0,<entity1>,['Musical work'],Six Pieces for Piano
+Q3485664_0,<entity2>,['Musical work'],Op
+Q3485664_0,<entity3>,['Musical work'],118
+Q3485664_1,<entity1>,['Musical work'],Six Pieces for Piano
+Q3485664_1,<entity2>,['Musical work'],Op
+Q3485664_1,<entity3>,['Musical work'],118
+Q3485664_2,<entity1>,['Musical work'],Six Pieces for Piano
+Q3485664_2,<entity2>,['Musical work'],Op
+Q3485664_2,<entity3>,['Musical work'],118
+Q3620148_0,<entity1>,['Place of worship'],Holy of Holies
+Q3620148_1,<entity1>,['Place of worship'],Holy of Holies
+Q3620148_2,<entity1>,['Place of worship'],of Holies
+Q372907_1,<entity1>,['Musical work'],Violin Concerto
+Q372907_2,<entity1>,['Musical work'],Violin Concerto
+Q372907_2,<entity2>,['Musical work'],Tchaikovsky
+Q3821338_0,<entity1>,['Movie'],Ballad of the Little Soldier
+Q3821338_1,<entity1>,['Movie'],Ballad of the Little Soldier
+Q3821338_2,<entity1>,['Movie'],Ballad of the Little Soldier
+Q3925518_0,<entity1>,['Artwork'],Siena Cathedral Pulpit
+Q3925518_1,<entity1>,['Artwork'],Siena Cathedral Pulpit
+Q3925518_2,<entity1>,['Artwork'],Siena Cathedral Pulpit
+Q4024504_0,<entity1>,"['Person', 'Fictional entity']",Uncle Henry
+Q4024504_0,<entity2>,"['Person', 'Fictional entity']",L
+Q4024504_0,<entity3>,"['Person', 'Fictional entity']",. Frank Baum
+Q4024504_0,<entity4>,"['Person', 'Fictional entity']",Oz-series
+Q4024504_1,<entity1>,"['Person', 'Fictional entity']",Uncle Henry
+Q4024504_1,<entity2>,"['Person', 'Fictional entity']",L
+Q4024504_1,<entity3>,"['Person', 'Fictional entity']",. Frank Baum
+Q4024504_1,<entity4>,"['Person', 'Fictional entity']",Oz-series
+Q4024504_2,<entity1>,"['Person', 'Fictional entity']",Uncle Henry
+Q4024504_2,<entity2>,"['Person', 'Fictional entity']",L
+Q4024504_2,<entity3>,"['Person', 'Fictional entity']",. Frank Baum
+Q4024504_2,<entity4>,"['Person', 'Fictional entity']",Oz-series
+Q40309_0,<entity1>,"['Artwork', 'Book']",Bible
+Q40309_0,<entity2>,"['Artwork', 'Book']",Acts of the Apostles
+Q40309_1,<entity1>,"['Artwork', 'Book']",Acts of the Apostles
+Q40309_2,<entity1>,"['Artwork', 'Book']",Acts of the Apostles
+Q403351_0,<entity1>,['Musical work'],String Quartet No. 2
+Q403351_1,<entity1>,['Musical work'],String Quartet No. 2
+Q41359_0,<entity1>,"['Artwork', 'Book']",Kurt Vonnegut
+Q41359_0,<entity2>,"['Artwork', 'Book']",Cat's Cradle
+Q41359_1,<entity1>,"['Artwork', 'Book']",Cat's Cradle
+Q41359_2,<entity1>,"['Artwork', 'Book']",Cat's Cradle
+Q4150068_0,<entity1>,['Artwork'],The Storm
+Q4150068_0,<entity2>,['Artwork'],Alexander Ostrovsky
+Q4150068_1,<entity1>,['Artwork'],The Storm
+Q4150068_1,<entity2>,['Artwork'],Alexander Ostrovsky
+Q4150068_2,<entity1>,['Artwork'],The Storm
+Q4150068_2,<entity2>,['Artwork'],Alexander Ostrovsky
+Q41663451_0,<entity1>,"['Artwork', 'Book']","The Long Way to a Small, Angry Planet"
+Q41663451_1,<entity1>,"['Artwork', 'Book']","The Long Way to a Small, Angry Planet"
+Q41663451_2,<entity1>,"['Artwork', 'Book']","The Long Way to a Small, Angry Planet"
+Q4198639_0,<entity1>,['Landmark'],Izmaylovo Estate
+Q4198639_1,<entity1>,['Landmark'],Izmaylovo Estate
+Q4198639_2,<entity1>,['Landmark'],Izmaylovo Estate
+Q4198639_2,<entity2>,['Landmark'],Russia
+Q4201575_0,<entity1>,['Landmark'],Marx-Engels-Lenin Institute
+Q4201575_0,<entity2>,['Landmark'],Marxism
+Q4201575_0,<entity3>,['Landmark'],Soviet Union
+Q4201575_1,<entity1>,['Landmark'],Marx-Engels-Lenin Institute
+Q4201575_1,<entity2>,['Landmark'],Soviet Union
+Q4201575_2,<entity1>,['Landmark'],Marx-Engels-Lenin Institute
+Q42826001_0,<entity1>,['Artwork'],The Silent Death
+Q42826001_1,<entity1>,['Artwork'],The Silent Death
+Q42826001_2,<entity1>,['Artwork'],Volker Kutscher
+Q42826001_2,<entity2>,['Artwork'],The Silent Death
+Q4354348_0,<entity1>,"['Fictional entity', 'Person']",Tam Sventon
+Q4354348_1,<entity1>,"['Fictional entity', 'Person']",Tam Sventon
+Q4354348_2,<entity1>,"['Fictional entity', 'Person']",Tam Sventon
+Q437869_0,<entity1>,['Person'],Evagrius Ponticus
+Q437869_1,<entity1>,['Person'],Evagrius Ponticus
+Q437869_2,<entity1>,['Person'],Evagrius Ponticus
+Q43968_0,<entity1>,['Movie'],The Trapp Family
+Q43968_1,<entity1>,['Movie'],The Trapp Family
+Q43968_2,<entity1>,['Movie'],The Trapp Family
+Q4406483_0,<entity1>,['Movie'],The Most Charming and Attractive
+Q4406483_0,<entity2>,['Movie'],Gerald Bezhanov
+Q4406483_1,<entity1>,['Movie'],The Most Charming and Attractive
+Q4406483_2,<entity1>,['Movie'],The Most Charming and Attractive
+Q4504846_0,<entity1>,['Landmark'],Saint Nicholas Church
+Q4504846_0,<entity2>,['Landmark'],Lipno Island
+Q4504846_1,<entity1>,['Landmark'],Saint Nicholas Church
+Q4504846_1,<entity2>,['Landmark'],Lipno Island
+Q4504846_2,<entity1>,['Landmark'],Saint Nicholas Church
+Q4504846_2,<entity2>,['Landmark'],Lipno Island
+Q469199_0,<entity1>,['Person'],Victorinus of Pettau
+Q469199_0,<entity2>,['Person'],Christianity
+Q469199_1,<entity1>,['Person'],Victorinus of Pettau
+Q469199_2,<entity1>,['Person'],Victorinus of Pettau
+Q476529_0,<entity1>,['Place of worship'],Winchester Cathedral
+Q476529_1,<entity1>,['Place of worship'],Winchester Cathedral
+Q476529_2,<entity1>,['Place of worship'],Winchester Cathedral
+Q476529_2,<entity2>,['Place of worship'],England
+Q477752_0,<entity1>,['Fictional entity'],Rules of Acquisition
+Q477752_1,<entity1>,['Fictional entity'],Ferengi Rule Book
+Q477752_2,<entity1>,['Fictional entity'],of Acquisition
+Q477752_2,<entity2>,['Fictional entity'],Rules of Acquisition
+Q4880827_0,<entity1>,"['Artwork', 'Book']",Behind the Beautiful Forevers
+Q4880827_1,<entity1>,"['Artwork', 'Book']",Behind the Beautiful Forevers
+Q4880827_2,<entity1>,"['Artwork', 'Book']",Behind the Beautiful Forevers
+Q4882997_0,<entity1>,['Person'],Belizean Creole
+Q4882997_1,<entity1>,['Person'],Belizean Creole
+Q4882997_2,<entity1>,['Person'],European
+Q4882997_2,<entity2>,['Person'],Belizean Creole
+Q502384_0,<entity1>,['Movie'],Gone in 60 Seconds
+Q502384_1,<entity1>,['Movie'],Gone in 60 Seconds
+Q502384_2,<entity1>,['Movie'],Gone in 60 Seconds
+Q513229_0,<entity1>,['Person'],Thimo the Brave
+Q513229_0,<entity2>,['Person'],Wettin
+Q51664_0,<entity1>,['Person'],Jesus
+Q51664_0,<entity2>,['Person'],Islam
+Q51664_1,<entity1>,['Person'],Jesus
+Q51664_1,<entity2>,['Person'],Islam
+Q52316_0,<entity1>,['Fictional entity'],Rebel Alliance
+Q52316_0,<entity2>,['Fictional entity'],Galactic Empire
+Q52316_1,<entity1>,['Fictional entity'],Rebel Alliance
+Q52316_2,<entity1>,['Fictional entity'],Rebel Alliance
+Q52347_0,<entity1>,['Fictional entity'],Galactic Empire
+Q52347_0,<entity2>,['Fictional entity'],Star Wars
+Q52347_1,<entity1>,['Fictional entity'],Star Wars
+Q52347_1,<entity2>,['Fictional entity'],Galactic Empire
+Q5422772_0,<entity1>,['Artwork'],Gaza
+Q5422772_1,<entity1>,['Artwork'],Eyeless in Gaza
+Q5422772_2,<entity1>,['Artwork'],Gaza
+Q547209_0,<entity1>,['Movie'],Silk Stockings
+Q547209_1,<entity1>,['Movie'],Silk Stockings
+Q547209_2,<entity1>,['Movie'],Silk Stockings
+Q550346_0,<entity1>,['Landmark'],Cathedral of Saint Demetrius
+Q550346_1,<entity1>,['Landmark'],Cathedral of Saint Demetrius
+Q550346_2,<entity1>,['Landmark'],Cathedral of Saint Demetrius
+Q5531958_0,<entity1>,['Book'],General Instruction of the Roman Missal
+Q5531958_1,<entity1>,['Book'],General Instruction of the Roman Missal
+Q5531958_1,<entity2>,['Book'],Mass
+Q5531958_2,<entity1>,['Book'],General Instruction of the Roman Missal
+Q5531958_2,<entity2>,['Book'],Roman Rite
+Q56284270_0,<entity1>,['TV series'],My Lottery Dream Home
+Q56284270_1,<entity1>,['TV series'],American
+Q56284270_1,<entity2>,['TV series'],My Lottery Dream Home
+Q56284270_2,<entity1>,['TV series'],My Lottery Dream Home
+Q571559_0,<entity1>,['Person'],Rudolph
+Q571559_0,<entity2>,['Person'],Lorraine
+Q571559_1,<entity1>,['Person'],Rudolph
+Q571559_1,<entity2>,['Person'],Lorraine
+Q571559_2,<entity1>,['Person'],Rudolph
+Q571559_2,<entity2>,['Person'],Lorraine
+Q578262_0,<entity1>,['Musical work'],Scythian Suite
+Q578262_1,<entity1>,['Musical work'],Scythian Suite
+Q578262_2,<entity1>,['Musical work'],Scythian Suite
+Q59242746_0,<entity1>,['TV series'],Motown Magic
+Q59242746_0,<entity2>,['TV series'],Australian-American
+Q59242746_1,<entity1>,['TV series'],Motown Magic
+Q59242746_2,<entity1>,['TV series'],Motown Magic
+Q59543_0,<entity1>,['Movie'],Son of the Bride
+Q59543_1,<entity1>,['Movie'],Son of the Bride
+Q59543_2,<entity1>,['Movie'],Son of the Bride
+Q597114_0,<entity1>,['Artwork'],Death of the Virgin
+Q602358_0,<entity1>,['Book'],Brockhaus and Efron Encyclopedic Dictionary
+Q602358_1,<entity1>,['Book'],Brockhaus and Efron Encyclopedic Dictionary
+Q602358_2,<entity1>,['Book'],Brockhaus and Efron Encyclopedic Dictionary
+Q605249_0,<entity1>,"['Artwork', 'Book']",Do Androids Dream of Electric Sheep
+Q605249_1,<entity1>,"['Artwork', 'Book']",Do Androids Dream of Electric Sheep
+Q605249_2,<entity1>,"['Artwork', 'Book']",Do Androids
+Q6099564_0,<entity1>,['TV series'],Ivor the Engine
+Q6099564_1,<entity1>,['TV series'],Ivor the Engine
+Q6099564_2,<entity1>,['TV series'],Ivor the Engine
+Q623153_0,<entity1>,['Artwork'],Theses on Feuerbach
+Q623153_1,<entity1>,['Artwork'],Theses on Feuerbach
+Q623153_2,<entity1>,['Artwork'],Theses on Feuerbach
+Q62401_0,<entity1>,['Person'],George
+Q62401_0,<entity2>,['Person'],Oldenburg
+Q62401_1,<entity1>,['Person'],George of
+Q62401_1,<entity2>,['Person'],Oldenburg
+Q62401_2,<entity1>,['Person'],George
+Q62401_2,<entity2>,['Person'],Oldenburg
+Q62483_0,<entity1>,['Person'],William
+Q62483_0,<entity2>,['Person'],Jülich-Cleves-Berg
+Q62483_1,<entity1>,['Person'],William
+Q62483_1,<entity2>,['Person'],Jülich-Cleves-Berg
+Q62483_2,<entity1>,['Person'],William
+Q62483_2,<entity2>,['Person'],Jülich-Cleves-Berg
+Q62483_2,<entity3>,['Person'],Jülich-Cleves-Berg
+Q6316745_0,<entity1>,"['Person', 'Fictional entity']",Fairy Godmother
+Q6316745_0,<entity2>,"['Person', 'Fictional entity']",Shrek
+Q6316745_1,<entity1>,"['Person', 'Fictional entity']",Fairy Godmother
+Q6316745_1,<entity2>,"['Person', 'Fictional entity']",Shrek
+Q6316745_2,<entity1>,"['Person', 'Fictional entity']",Fairy Godmother
+Q6316745_2,<entity2>,"['Person', 'Fictional entity']",Shrek
+Q634325_0,<entity1>,['Movie'],The Rare Breed
+Q634325_1,<entity1>,['Movie'],The Rare Breed
+Q634325_2,<entity1>,['Movie'],The Rare Breed
+Q639184_0,<entity1>,['Fictional entity'],Seven Dwarfs
+Q639184_1,<entity1>,['Fictional entity'],Seven Dwarfs
+Q639184_1,<entity2>,['Fictional entity'],Snow White
+Q639184_2,<entity1>,['Fictional entity'],Snow White
+Q639184_2,<entity2>,['Fictional entity'],Seven Dwarfs
+Q652046_0,<entity1>,['Place of worship'],Muhammad Ali Mosque
+Q652046_1,<entity1>,['Place of worship'],Muhammad Ali Mosque
+Q652046_2,<entity1>,['Place of worship'],Muhammad Ali Mosque
+Q6553565_0,<entity1>,['Musical work'],Trumpet Concerto
+Q6553565_1,<entity1>,['Musical work'],Trumpet Concerto
+Q6553565_2,<entity1>,['Musical work'],Trumpet Concerto
+Q664500_0,<entity1>,['Musical work'],Arnold Schoenberg
+Q664500_0,<entity2>,['Musical work'],A Survivor from Warsaw
+Q664500_1,<entity1>,['Musical work'],A Survivor from Warsaw
+Q664500_2,<entity1>,['Musical work'],A Survivor from Warsaw
+Q669358_0,<entity1>,['Musical work'],Beethoven
+Q669358_0,<entity2>,['Musical work'],Violin Sonata No. 5
+Q669358_1,<entity1>,['Musical work'],Violin Sonata No. 5
+Q669358_2,<entity1>,['Musical work'],Beethoven
+Q669358_2,<entity2>,['Musical work'],Violin Sonata No. 5
+Q6705257_0,<entity1>,"['Artwork', 'Book']","Lust, Caution"
+Q6705257_1,<entity1>,"['Artwork', 'Book']","Lust, Caution"
+Q687629_0,<entity1>,['Landmark'],Batu Caves
+Q687629_1,<entity1>,['Landmark'],Batu Caves
+Q687629_2,<entity1>,['Landmark'],Batu Caves
+Q687629_2,<entity2>,['Landmark'],Malaysia
+Q688919_0,<entity1>,['Artwork'],The Visit
+Q688919_1,<entity1>,['Artwork'],The Visit
+Q688919_2,<entity1>,['Artwork'],The Visit
+Q6945559_0,<entity1>,"['Movie', 'TV series']",My Ghost Story
+Q6945559_1,<entity1>,"['Movie', 'TV series']",My Ghost Story
+Q6945559_2,<entity1>,"['Movie', 'TV series']",My Ghost Story
+Q699448_0,<entity1>,"['Landmark', 'Artwork']",Monument to the Battle of the Nations
+Q699448_1,<entity1>,"['Landmark', 'Artwork']",Monument to the Battle of the Nations
+Q699448_1,<entity2>,"['Landmark', 'Artwork']",Germany
+Q699448_2,<entity1>,"['Landmark', 'Artwork']",Monument to the Battle of the Nations
+Q704973_0,<entity1>,['Person'],Theodoros II Palaiologos
+Q704973_1,<entity1>,['Person'],Theodoros II Palaiologos
+Q704973_1,<entity2>,['Person'],Morea
+Q704973_2,<entity1>,['Person'],Theodoros II Palaiologos
+Q7203254_0,<entity1>,['Book'],Player's Handbook
+Q7203254_0,<entity2>,['Book'],Dungeons & Dragons
+Q7203254_1,<entity1>,['Book'],Player's Handbook
+Q7203254_2,<entity1>,['Book'],Player's Handbook
+Q7203254_2,<entity2>,['Book'],D&D
+Q720984_0,<entity1>,['Person'],Theodotus
+Q720984_0,<entity2>,['Person'],Byzantium
+Q720984_1,<entity1>,['Person'],Theodotus
+Q720984_1,<entity2>,['Person'],Byzantium
+Q720984_2,<entity1>,['Person'],Theodotus of Byzantium
+Q7231687_0,<entity1>,['Artwork'],Porterhouse Blue
+Q7231687_1,<entity1>,['Artwork'],Porterhouse Blue
+Q7231687_2,<entity1>,['Artwork'],Porterhouse Blue
+Q732949_0,<entity1>,['Musical work'],Songs Without Words
+Q732949_1,<entity1>,['Musical work'],Songs Without Words
+Q732949_2,<entity1>,['Musical work'],Songs Without Words
+Q735263_0,<entity1>,['TV series'],The Busy World
+Q735263_0,<entity2>,['TV series'],Richard Scarry
+Q735263_1,<entity1>,['TV series'],The Busy World of
+Q735263_1,<entity2>,['TV series'],Richard Scarry
+Q735263_2,<entity1>,['TV series'],The Busy World of
+Q735263_2,<entity2>,['TV series'],Richard Scarry
+Q7448655_0,<entity1>,['TV series'],Selling Hitler
+Q7448655_1,<entity1>,['TV series'],Selling Hitler
+Q7448655_2,<entity1>,['TV series'],Selling Hitler
+Q746666_0,<entity1>,['Musical work'],Ring a Ring o' Roses
+Q746666_1,<entity1>,['Musical work'],Ring a Ring o' Roses
+Q746666_2,<entity1>,['Musical work'],Ring a Ring o' Roses
+Q748125_0,<entity1>,['Book'],Asterix
+Q748125_0,<entity2>,['Book'],Switzerland
+Q748125_1,<entity1>,['Book'],Asterix
+Q748125_1,<entity2>,['Book'],Switzerland
+Q748125_2,<entity1>,['Book'],Asterix
+Q748125_2,<entity2>,['Book'],Switzerland
+Q76210_0,<entity1>,['Book'],The Blue Lotus
+Q76210_1,<entity1>,['Book'],The Blue Lotus
+Q76210_2,<entity1>,['Book'],The Blue Lotus
+Q764962_0,<entity1>,['Movie'],Somebody Up There Likes Me
+Q764962_1,<entity1>,['Movie'],Somebody Up There Likes Me
+Q764962_2,<entity1>,['Movie'],Somebody Up There Likes Me
+Q7719237_0,<entity1>,"['Artwork', 'Book']",The Book of Hours
+Q7719237_1,<entity1>,"['Artwork', 'Book']",The Book of Hours
+Q7719237_2,<entity1>,"['Artwork', 'Book']",The Book of Hours
+Q7734430_0,<entity1>,"['Movie', 'TV series']",The Flight That Fought Back
+Q7734430_1,<entity1>,"['Movie', 'TV series']",The Flight That Fought Back
+Q7734430_2,<entity1>,"['Movie', 'TV series']",The Flight That Fought Back
+Q781942_0,<entity1>,['TV series'],The Trials of Life
+Q781942_1,<entity1>,['TV series'],The Trials of Life
+Q781942_2,<entity1>,['TV series'],The Trials of Life
+Q795118_0,<entity1>,"['Book series', 'TV series']",Terra for Mars
+Q795118_1,<entity1>,"['Book series', 'TV series']",Terra for Mars
+Q795118_2,<entity1>,"['Book series', 'TV series']",Terra for Mars
+Q8028218_0,<entity1>,['Movie'],Without Consent
+Q8028218_1,<entity1>,['Movie'],Without Consent
+Q8028218_2,<entity1>,['Movie'],Without Consent
+Q8036410_0,<entity1>,['TV series'],World War 1 in Colour
+Q8036410_1,<entity1>,['TV series'],World War 1 in Colour
+Q8036410_2,<entity1>,['TV series'],World War 1
+Q80683677_0,<entity1>,['TV series'],Diary of a Future President
+Q80683677_1,<entity1>,['TV series'],Diary of a Future President
+Q80683677_2,<entity1>,['TV series'],Diary of a Future President
+Q826495_0,<entity1>,"['Movie', 'TV series']",The Curse of King Tut's Tomb
+Q826495_1,<entity1>,"['Movie', 'TV series']",The Curse of King Tut's Tomb
+Q826495_2,<entity1>,"['Movie', 'TV series']",The Curse of King Tut's Tomb
+Q848397_0,<entity1>,"['Landmark', 'Artwork']",Maiden's Tower
+Q848397_0,<entity2>,"['Landmark', 'Artwork']",Bosphorus
+Q848397_1,<entity1>,"['Landmark', 'Artwork']",Maiden's Tower
+Q848397_2,<entity1>,"['Landmark', 'Artwork']",Maiden's Tower
+Q848397_2,<entity2>,"['Landmark', 'Artwork']",Bosphorus
+Q852032_0,<entity1>,['Place of worship'],Burana Tower
+Q852032_1,<entity1>,['Place of worship'],Burana Tower
+Q852032_2,<entity1>,['Place of worship'],Burana Tower
+Q853847_0,<entity1>,"['Fictional entity', 'Person']",Tinker Bell
+Q853847_1,<entity1>,"['Fictional entity', 'Person']",Tinker Bell
+Q853847_2,<entity1>,"['Fictional entity', 'Person']",Tinker Bell
+Q887438_0,<entity1>,['Person'],Dmitry Shcherbachev
+Q887438_1,<entity1>,['Person'],Dmitry Shcherbachev
+Q887438_2,<entity1>,['Person'],Dmitry Shcherbachev
+Q888136_0,<entity1>,['Movie'],The Tale of the Princess Kaguya
+Q888136_0,<entity2>,['Movie'],Japanese
+Q888136_1,<entity1>,['Movie'],The Tale of the Princess Kaguya
+Q888136_2,<entity1>,['Movie'],The Tale of the Princess Kaguya
+Q896699_0,<entity1>,['Place of worship'],Kamp Abbey
+Q896699_1,<entity1>,['Place of worship'],Kamp Abbey
+Q896699_2,<entity1>,['Place of worship'],Kamp Abbey
+Q896891_0,<entity1>,['TV series'],The Ray Bradbury Theater
+Q896891_1,<entity1>,['TV series'],The Ray Bradbury Theater
+Q896891_2,<entity1>,['TV series'],The Ray Bradbury Theater
+Q911720_0,<entity1>,['Place of worship'],Yeni Eminönü Mosque
+Q911720_1,<entity1>,['Place of worship'],Yeni Eminönü Mosque
+Q911720_2,<entity1>,['Place of worship'],Yeni Eminönü Mosque
+Q915851_0,<entity1>,['Place of worship'],Lal Masjid
+Q915851_1,<entity1>,['Place of worship'],Lal Masjid
+Q915851_1,<entity2>,['Place of worship'],Pakistan
+Q915851_2,<entity1>,['Place of worship'],Lal Masjid
+Q924424_0,<entity1>,['Artwork'],Discourses on Livy
+Q924424_1,<entity1>,['Artwork'],Discourses on Livy
+Q931519_0,<entity1>,['Fictional entity'],Battle of the Pelennor Fields
+Q931519_1,<entity1>,['Fictional entity'],Battle of the Pelennor Fields
+Q931519_2,<entity1>,['Fictional entity'],Battle of the Pelennor Fields
+Q931519_2,<entity2>,['Fictional entity'],Middle-earth
+Q947641_0,<entity1>,['Person'],Prince
+Q947641_0,<entity2>,['Person'],George
+Q947641_0,<entity3>,['Person'],Yugoslavia
+Q947641_1,<entity1>,['Person'],George
+Q947641_1,<entity2>,['Person'],Yugoslavia
+Q947641_2,<entity1>,['Person'],Prince George
+Q947641_2,<entity2>,['Person'],Yugoslavia
+Q948372_0,<entity1>,"['Artwork', 'Book']",Ursula K. Le Guin
+Q948372_0,<entity2>,"['Artwork', 'Book']",City of Illusions
+Q948372_1,<entity1>,"['Artwork', 'Book']",City of Illusions
+Q948372_2,<entity1>,"['Artwork', 'Book']",City of Illusions
+Q949916_0,<entity1>,"['Fictional entity', 'Person']",Yogi Bear
+Q949916_1,<entity1>,"['Fictional entity', 'Person']",Yogi Bear
+Q949916_2,<entity1>,"['Fictional entity', 'Person']",Yogi Bear
+Q953395_0,<entity1>,['Food'],Manuka
+Q953395_1,<entity1>,['Food'],Manuka
+Q953395_2,<entity1>,['Food'],Manuka
+Q962445_0,<entity1>,['Landmark'],Patriarch Ponds
+Q962445_2,<entity1>,['Landmark'],Patriarch Ponds
+Q981135_0,<entity1>,['TV series'],Tarzan: The Epic Adventures
+Q981135_1,<entity1>,['TV series'],Tarzan
+Q981135_1,<entity2>,['TV series'],Tarzan: The Epic Adventures
+Q981135_2,<entity1>,['TV series'],Tarzan: The Epic Adventures
+Q99954618_0,<entity1>,['TV series'],Dead Mountain
+Q99954618_1,<entity1>,['TV series'],Dead Mountain
+Q99954618_2,<entity1>,['TV series'],Dead Mountain

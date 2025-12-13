@@ -1,0 +1,852 @@
+sentence_id,entity_tag,entity_category,entity_src,entity_translated
+Q100268160_0,<entity1>,['TV series'],The Mole – Undercover,Der Maulwurf: Undercover
+Q100268160_0,<entity2>,['TV series'],North Korea,Nordkorea
+Q100268160_1,<entity1>,['TV series'],The Mole – Undercover in North Korea,Der Maulwurf: Undercover in Nordkorea
+Q100268160_2,<entity1>,['TV series'],The Mole,Der Maulwurf
+Q100268160_2,<entity2>,['TV series'],Undercover,Undercover
+Q100268160_2,<entity3>,['TV series'],North Korea,Nordkorea
+Q1012958_0,<entity1>,['Landmark'],Liebenzell Castle,Burg Liebenzell
+Q1012958_1,<entity1>,['Landmark'],Liebenzell Castle,Burg Liebenzell
+Q1012958_2,<entity1>,['Landmark'],Liebenzell Castle,Burg Liebenzell
+Q1056568_0,<entity1>,['Movie'],Warning Sign,Warnzeichen
+Q1056568_1,<entity1>,['Movie'],Warning Sign,Warnzeichen
+Q1056568_2,<entity1>,['Movie'],Warning Sign,Warnzeichen
+Q1072093_0,<entity1>,['Food'],United States,Vereinigte Staaten
+Q1072093_1,<entity1>,['Food'],United States,Vereinigte Staaten
+Q1072093_2,<entity1>,['Food'],United States,Vereinigte Staaten
+Q10860912_0,<entity1>,"['Person', 'Fictional entity']",Griffin,Griffin
+Q10860912_1,<entity1>,"['Person', 'Fictional entity']",Griffin,Griffin
+Q10860912_2,<entity1>,"['Person', 'Fictional entity']",Griffin,Griffin
+Q1087216_0,<entity1>,['Musical work'],Christ,Christus
+Q1087216_0,<entity2>,['Musical work'],Mount of Olives,Ölberg
+Q1087216_1,<entity1>,['Musical work'],Christ on the Mount of Olives,Christus am Ölberge
+Q1087216_2,<entity1>,['Musical work'],Beethoven,Beethoven
+Q1087216_2,<entity2>,['Musical work'],Christ on the Mount of Olives,Christus am Ölberge
+Q109658712_0,<entity1>,['TV series'],Anxious People,Menschen in Angst
+Q109658712_1,<entity1>,['TV series'],Anxious People,Menschen in Angst
+Q109658712_2,<entity1>,['TV series'],Anxious People,Menschen in Angst
+Q1110797_0,<entity1>,['Movie'],"Good Morning, Miss Dove","Guten Morgen, Miss Fink"
+Q1110797_1,<entity1>,['Movie'],"Good Morning, Miss Dove","Guten Morgen, Miss Fink"
+Q1110797_2,<entity1>,['Movie'],"Good Morning, Miss Dove","Guten Morgen, Miss Fink"
+Q111474934_0,<entity1>,['TV series'],The Lesson,The Lesson
+Q111474934_1,<entity1>,['TV series'],The Lesson,The Lesson
+Q111474934_2,<entity1>,['TV series'],The Lesson,The Lesson
+Q111961959_0,<entity1>,['TV series'],Love Like The Galaxy,Love Like The Galaxy
+Q111961959_1,<entity1>,['TV series'],Love Like The Galaxy,Love Like The Galaxy
+Q111961959_2,<entity1>,['TV series'],Love Like The Galaxy,Love Like The Galaxy
+Q1144080_0,<entity1>,['Movie'],Till Marriage Do Us Part,Scheidung auf italienisch
+Q1144080_1,<entity1>,['Movie'],Till Marriage Do Us Part,Scheidung auf italienisch
+Q1144080_2,<entity1>,['Movie'],Till Marriage Do Us Part,Scheidung auf italienisch
+Q1152142_0,<entity1>,['Fictional entity'],DC Multiverse,DC-Multiversum
+Q1152142_1,<entity1>,['Fictional entity'],DC Multiverse Earth,DC-Multiversum-Erde
+Q1152142_1,<entity2>,['Fictional entity'],Justice League,Gerechtigkeitsliga
+Q1152142_2,<entity1>,['Fictional entity'],DC Multiverse,DC-Multiversum
+Q116945637_0,<entity1>,['Movie'],All Your Faces,All eure Gesichter
+Q116945637_1,<entity1>,['Movie'],All Your Faces,All eure Gesichter
+Q116945637_2,<entity1>,['Movie'],All Your Faces,All eure Gesichter
+Q1190888_0,<entity1>,"['Artwork', 'Book']",The Mote in God's Eye,Der Splitter im Auge Gottes
+Q1190888_1,<entity1>,"['Artwork', 'Book']",The Mote in God's Eye,Der Splitter im Auge Gottes
+Q1190888_2,<entity1>,"['Artwork', 'Book']",The Mote in God's Eye,Der Splitter im Auge Gottes
+Q1195553_0,<entity1>,['Movie'],The Wonderful World of Puss 'n Boots,Der gestiefelte Kater
+Q1195553_1,<entity1>,['Movie'],The Wonderful World of Puss 'n Boots,Der gestiefelte Kater
+Q1195553_2,<entity1>,['Movie'],The Wonderful World of Puss 'n Boots,Der gestiefelte Kater
+Q1203306_0,<entity1>,"['Book series', 'TV series']",Embracing Love,"Küss mich, Student!"
+Q1203306_1,<entity1>,"['Book series', 'TV series']",Embracing Love,"Küss mich, Student!"
+Q1203306_2,<entity1>,"['Book series', 'TV series']",Embracing Love,"Küss mich, Student!"
+Q1204959_0,<entity1>,['Fictional entity'],Ministry of Truth,Wahrheitsministerium
+Q1204959_0,<entity2>,['Fictional entity'],Oceania,Ozeanien
+Q1204959_2,<entity1>,['Fictional entity'],Ministry of Truth,Wahrheitsministerium
+Q1216303_0,<entity1>,"['Artwork', 'Book']",Orpheus,Orpheus
+Q1216303_0,<entity2>,"['Artwork', 'Book']",Sonnets to Orpheus,Die Sonette an Orpheus
+Q1216303_1,<entity1>,"['Artwork', 'Book']",Sonnets to Orpheus,Die Sonette an Orpheus
+Q1216303_2,<entity1>,"['Artwork', 'Book']",Sonnets to Orpheus,Die Sonette an Orpheus
+Q1230632_0,<entity1>,['TV series'],Tinker Tailor Soldier Spy,"Dame, König, As, Spion"
+Q1230632_1,<entity1>,['TV series'],Tinker Tailor Soldier Spy,"Dame, König, As, Spion"
+Q1230632_2,<entity1>,['TV series'],Tinker Tailor Soldier Spy,"Dame, König, As, Spion"
+Q1235125_0,<entity1>,['Book'],Into the Wild,In die Wildnis
+Q1235125_1,<entity1>,['Book'],Into the Wild,In die Wildnis
+Q1235125_2,<entity1>,['Book'],Into the Wild,In die Wildnis
+Q1242146_0,<entity1>,"['Place of worship', 'Landmark']",Donskoy Monastery,Donskoi-Kloster
+Q1242146_1,<entity1>,"['Place of worship', 'Landmark']",Donskoy Monastery,Donskoi-Kloster
+Q1242146_2,<entity1>,"['Place of worship', 'Landmark']",Donskoy Monastery,Donskoi-Kloster
+Q1257747_0,<entity1>,['Landmark'],Trinity Church,Dreifaltigkeitskirche
+Q1257747_0,<entity2>,['Landmark'],Nikitniki,Nikitniki
+Q1257747_1,<entity1>,['Landmark'],Trinity Church,Dreifaltigkeitskirche
+Q1257747_1,<entity2>,['Landmark'],Nikitniki,Nikitniki
+Q1257747_2,<entity1>,['Landmark'],Trinity Church,Dreifaltigkeitskirche
+Q1257747_2,<entity2>,['Landmark'],Nikitniki,Nikitniki
+Q1264983_0,<entity1>,['TV series'],The Man from U.N.C.L.E,Solo für O.N.C.E.L.
+Q1264983_1,<entity1>,['TV series'],The Man from U.N.C.L.E.,Solo für O.N.C.E.L.
+Q1264983_2,<entity1>,['TV series'],The Man from U.N.C.L.E,Solo für O.N.C.E.L.
+Q126877_0,<entity1>,"['Landmark', 'Natural place']",Gorky Park,Gorki-Park
+Q126877_1,<entity1>,"['Landmark', 'Natural place']",Gorky Park,Gorki-Park
+Q126877_2,<entity1>,"['Landmark', 'Natural place']",Gorky Park,Gorki-Park
+Q1305660_0,<entity1>,['TV series'],In the House,Ein schrecklich nettes Haus
+Q1305660_0,<entity2>,['TV series'],In the House,Ein schrecklich nettes Haus
+Q1305660_1,<entity1>,['TV series'],In the House,Ein schrecklich nettes Haus
+Q1305660_1,<entity2>,['TV series'],In the House,Ein schrecklich nettes Haus
+Q1305660_2,<entity1>,['TV series'],In the House,Ein schrecklich nettes Haus
+Q1305660_2,<entity2>,['TV series'],In the House,Ein schrecklich nettes Haus
+Q131119_0,<entity1>,"['Artwork', 'Book']",First Epistle,Erster Brief
+Q131119_0,<entity2>,"['Artwork', 'Book']",of Peter,des Petrus
+Q131119_0,<entity3>,"['Artwork', 'Book']",Christianity,Christentum
+Q131119_1,<entity1>,"['Artwork', 'Book']",Peter,Petrus
+Q131119_2,<entity1>,"['Artwork', 'Book']",First Epistle,Erster Brief
+Q131119_2,<entity2>,"['Artwork', 'Book']",Peter,Petrus
+Q13407659_0,<entity1>,['TV series'],Valley of the Wolves,Tal der Wölfe
+Q13407659_1,<entity1>,['TV series'],Valley of the Wolves,Tal der Wölfe
+Q13407659_2,<entity1>,['TV series'],Valley of the Wolves,Tal der Wölfe
+Q13501123_0,<entity1>,['TV series'],Worzel Gummidge,Die Vogelscheuche
+Q13501123_1,<entity1>,['TV series'],Worzel Gummidge,Die Vogelscheuche
+Q13501123_2,<entity1>,['TV series'],Worzel Gummidge,Die Vogelscheuche
+Q1367269_0,<entity1>,['Landmark'],Moscow Belorussky,Moskauer Belarussischer
+Q1367269_0,<entity2>,['Landmark'],station,Bahnhof
+Q1367269_1,<entity1>,['Landmark'],Moscow Belorussky,Moskauer Belarussischer
+Q1367269_2,<entity1>,['Landmark'],Moscow Belorussky railway station,Belarussischer Bahnhof
+Q1381934_0,<entity1>,['Landmark'],Ipatiev House,Ipatjew-Haus
+Q1381934_1,<entity1>,['Landmark'],Ipatiev House,Ipatjew-Haus
+Q1381934_2,<entity1>,['Landmark'],Ipatiev House,Ipatjew-Haus
+Q140527_0,<entity1>,['Artwork'],The Three Musketeers,Die drei Musketiere
+Q140527_1,<entity1>,['Artwork'],The Three Musketeers,Die drei Musketiere
+Q140527_2,<entity1>,['Artwork'],The Three Musketeers,Die drei Musketiere
+Q1408916_0,<entity1>,['Landmark'],Ivangorod Fortress,Festung Iwangorod
+Q1408916_1,<entity1>,['Landmark'],Ivangorod Fortress,Festung Iwangorod
+Q1408916_2,<entity1>,['Landmark'],Ivangorod Fortress,Festung Iwangorod
+Q1413856_0,<entity1>,['Musical work'],Geographical Fugue,Fuge aus der Geographie
+Q1413856_1,<entity1>,['Musical work'],Fugue,Fuge
+Q1416458_0,<entity1>,"['Artwork', 'Book']",Stand on Zanzibar,Morgenwelt
+Q1416458_1,<entity1>,"['Artwork', 'Book']",Stand on Zanzibar,Morgenwelt
+Q1416458_2,<entity1>,"['Artwork', 'Book']",Stand on Zanzibar,Morgenwelt
+Q1417153_0,<entity1>,['Person'],Finger Snail,Fingerschnecke
+Q1417153_1,<entity1>,['Person'],Finger Snail,Fingerschnecke
+Q1417153_2,<entity1>,['Person'],Finger Snail,Fingerschnecke
+Q1417153_2,<entity2>,['Person'],Egypt,Ägypten
+Q1417441_0,<entity1>,['Landmark'],St Volodymyr's Cathedral,Wladimirkathedrale
+Q1417441_1,<entity1>,['Landmark'],St Volodymyr,Heiliger Wladimir
+Q1417441_1,<entity2>,['Landmark'],'s Cathedral,s Kathedrale
+Q1417441_2,<entity1>,['Landmark'],St Volodymyr's Cathedral,Wladimirkathedrale
+Q1424212_0,<entity1>,"['Fictional entity', 'Person']",Rossi,Rossi
+Q1424212_1,<entity1>,"['Fictional entity', 'Person']",Rossi,Rossi
+Q1424212_2,<entity1>,"['Fictional entity', 'Person']",Mr. Rossi,Herr Rossi
+Q1432585_0,<entity1>,['Landmark'],Kazansky railway station,Kasaner Bahnhof
+Q1432585_1,<entity1>,['Landmark'],Kazansky railway station,Kasaner Bahnhof
+Q1432585_2,<entity1>,['Landmark'],Kazansky railway station,Kasaner Bahnhof
+Q1432585_2,<entity2>,['Landmark'],Moscow,Moskau
+Q1444768_0,<entity1>,['Movie'],Son of Godzilla,Frankensteins Monster jagen Godzillas Sohn
+Q1444768_1,<entity1>,['Movie'],Son of Godzilla,Frankensteins Monster jagen Godzillas Sohn
+Q1444768_2,<entity1>,['Movie'],Son of Godzilla,Frankensteins Monster jagen Godzillas Sohn
+Q1449713_0,<entity1>,"['Artwork', 'Book']",Hours of Philip the Bold,Stundenbuch Philipps des Kühnen
+Q1449713_1,<entity1>,"['Artwork', 'Book']",Hours of Philip the Bold,Stundenbuch Philipps des Kühnen
+Q1449713_2,<entity1>,"['Artwork', 'Book']",Hours of Philip the Bold,Stundenbuch Philipps des Kühnen
+Q1504526_0,<entity1>,"['Fictional entity', 'Person']",Comic Book Guy,Comicbuchverkäufer
+Q1504526_2,<entity1>,"['Fictional entity', 'Person']",Comic,Comic
+Q1504526_2,<entity2>,"['Fictional entity', 'Person']",Book Guy,Buchverkäufer
+Q1517519_0,<entity1>,['Book'],The Book of the Courtier,Das Buch vom Hofmann
+Q1517519_1,<entity1>,['Book'],The Book of the Courtier,Das Buch vom Hofmann
+Q1517519_2,<entity1>,['Book'],The Book of the Courtier,Das Buch vom Hofmann
+Q1523586_0,<entity1>,['Movie'],A Hatful of Rain,Giftiger Schnee
+Q1523586_1,<entity1>,['Movie'],A Hatful of Rain,Giftiger Schnee
+Q1523586_2,<entity1>,['Movie'],A Hatful of Rain,Giftiger Schnee
+Q15260610_0,<entity1>,['TV series'],One in one!,Eins zu eins!
+Q15260610_1,<entity1>,['TV series'],One in one!,Eins zu eins!
+Q15260610_2,<entity1>,['TV series'],Russian,Russisch
+Q15260610_2,<entity2>,['TV series'],One in one!,Eins zu eins!
+Q15299082_0,<entity1>,['TV series'],Turkish,Türkisch
+Q15299082_0,<entity2>,['TV series'],Do not worry for me,Sorg dich nicht um mich
+Q15299082_1,<entity1>,['TV series'],Do not worry for me,Sorg dich nicht um mich
+Q15299082_2,<entity1>,['TV series'],Do not worry for me,Sorg dich nicht um mich
+Q1545219_0,<entity1>,"['Fictional entity', 'Person']",Father Brown,Pater Brown
+Q1545219_1,<entity1>,"['Fictional entity', 'Person']",Father Brown,Pater Brown
+Q1545219_2,<entity1>,"['Fictional entity', 'Person']",Father Brown,Pater Brown
+Q154563_0,<entity1>,['Place of worship'],Berlin Cathedral,Berliner Dom
+Q154563_1,<entity1>,['Place of worship'],Berlin Cathedral,Berliner Dom
+Q1548449_0,<entity1>,['Place of worship'],Great Synagogue,Große Synagoge
+Q1548449_0,<entity2>,['Place of worship'],Czech Republic,Tschechische Republik
+Q1548449_1,<entity1>,['Place of worship'],Great Synagogue,Große Synagoge
+Q1548449_1,<entity2>,['Place of worship'],Plzeň,Pilsen
+Q1548449_2,<entity1>,['Place of worship'],Great Synagogue,Große Synagoge
+Q15635278_0,<entity1>,['TV series'],Very Good Times,Very Good Times
+Q15635278_0,<entity2>,['TV series'],South Korea,Südkorea
+Q15635278_1,<entity1>,['TV series'],Very Good Times,Very Good Times
+Q15635278_2,<entity1>,['TV series'],South Korean,Südkoreanisch
+Q15635278_2,<entity2>,['TV series'],Very Good Times,Very Good Times
+Q1579157_0,<entity1>,['Artwork'],Mount Royal Cross,Kreuz auf dem Mont Royal
+Q1579157_1,<entity1>,['Artwork'],Mount Royal Cross,Kreuz auf dem Mont Royal
+Q1579157_2,<entity1>,['Artwork'],Mount Royal Cross,Kreuz auf dem Mont Royal
+Q1579960_0,<entity1>,['Movie'],I Never Sang for My Father,Kein Lied für meinen Vater
+Q1579960_1,<entity1>,['Movie'],I Never Sang for My Father,Kein Lied für meinen Vater
+Q1579960_2,<entity1>,['Movie'],I Never Sang for My Father,Kein Lied für meinen Vater
+Q15804357_0,<entity1>,['Movie'],Quality Time,Quality Time
+Q15804357_1,<entity1>,['Movie'],Quality Time,Quality Time
+Q15804357_2,<entity1>,['Movie'],Quality Time,Quality Time
+Q1585564_0,<entity1>,['Place of worship'],Sakya Monastery,Sakya-Kloster
+Q1585564_1,<entity1>,['Place of worship'],Sakya Monastery,Sakya-Kloster
+Q1585564_2,<entity1>,['Place of worship'],Sakya Monastery,Sakya-Kloster
+Q1585564_2,<entity2>,['Place of worship'],People's Republic of China,Volksrepublik China
+Q160341_0,<entity1>,['Person'],Edward IV,Eduard IV.
+Q160341_0,<entity2>,['Person'],England,England
+Q161106_0,<entity1>,['Person'],Konstantin Pavlovich,Konstantin Pawlowitsch
+Q161106_0,<entity2>,['Person'],Russia,Russland
+Q16150399_1,<entity1>,['TV series'],American Gangster,American Gangster
+Q16150399_2,<entity1>,['TV series'],American Gangster,American Gangster
+Q162935_0,<entity1>,['Musical work'],Piano Concerto No. 1,Klavierkonzert Nr. 1
+Q162935_1,<entity1>,['Musical work'],Piano Concerto No. 1,Klavierkonzert Nr. 1
+Q162935_2,<entity1>,['Musical work'],Piano Concerto No. 1,Klavierkonzert Nr. 1
+Q163493_0,<entity1>,['Musical work'],Symphony No. 1,Sinfonie Nr. 1
+Q163493_1,<entity1>,['Musical work'],Symphony No. 1,Sinfonie Nr. 1
+Q163493_2,<entity1>,['Musical work'],Symphony No. 1,Sinfonie Nr. 1
+Q163600_0,<entity1>,['Musical work'],Symphony No. 1,Sinfonie Nr. 1
+Q163600_1,<entity1>,['Musical work'],Symphony No. 1,Sinfonie Nr. 1
+Q163600_2,<entity1>,['Musical work'],Symphony No. 1,Sinfonie Nr. 1
+Q16387049_0,<entity1>,"['Artwork', 'Book']",Mistborn: Shadows of Self,Nebelgeboren: Schatten über den Städten
+Q16387049_1,<entity1>,"['Artwork', 'Book']",Mistborn: Shadows of Self,Nebelgeboren: Schatten über den Städten
+Q16387049_2,<entity1>,"['Artwork', 'Book']",Mistborn: Shadows of Self,Nebelgeboren: Schatten über den Städten
+Q164216_0,<entity1>,['Place of worship'],Monastery of Saint Naum,Kloster Sveti Naum
+Q164216_1,<entity1>,['Place of worship'],Monastery of Saint Naum,Kloster Sveti Naum
+Q164216_2,<entity1>,['Place of worship'],Monastery of Saint Naum,Kloster Sveti Naum
+Q1648509_0,<entity1>,"['Fictional entity', 'Person']",Marya Bolkonskaya,Marja Bolkonskaja
+Q1648509_0,<entity2>,"['Fictional entity', 'Person']",Andrei,Andrei
+Q1648509_1,<entity1>,"['Fictional entity', 'Person']",Marya Bolkonskaya,Marja Bolkonskaja
+Q1648509_2,<entity1>,"['Fictional entity', 'Person']",Marya Bolkonskaya,Marja Bolkonskaja
+Q172077_0,<entity1>,['Place of worship'],Dome of the Rock,Felsendom
+Q172077_1,<entity1>,['Place of worship'],Dome of the Rock,Felsendom
+Q172077_2,<entity1>,['Place of worship'],Dome of the Rock,Felsendom
+Q1739780_0,<entity1>,['Movie'],"Dirty Mary, Crazy Larry",Flucht mit Luzifer
+Q1739780_1,<entity1>,['Movie'],Dirty Mary,Dirty Mary
+Q1739780_1,<entity2>,['Movie'],Crazy Larry,Crazy Larry
+Q1739780_2,<entity1>,['Movie'],"Dirty Mary, Crazy Larry",Flucht mit Luzifer
+Q1751487_0,<entity1>,['Landmark'],Platov South-Russian State Polytechnic University,Südrussische Staatliche Polytechnische Universität M. I. Platow
+Q1751487_1,<entity1>,['Landmark'],Platov South-Russian State Polytechnic University,Südrussische Staatliche Polytechnische Universität M. I. Platow
+Q1751487_2,<entity1>,['Landmark'],Platov South-Russian State Polytechnic University,Südrussische Staatliche Polytechnische Universität M. I. Platow
+Q1762893_0,<entity1>,['Food'],Romaine,Romanasalat
+Q1768389_0,<entity1>,"['Artwork', 'Book']",The Holocaust Industry,Die Holocaust-Industrie
+Q1768389_1,<entity1>,"['Artwork', 'Book']",The Holocaust Industry,Die Holocaust-Industrie
+Q1768389_2,<entity1>,"['Artwork', 'Book']",The Holocaust Industry,Die Holocaust-Industrie
+Q1768389_2,<entity2>,"['Artwork', 'Book']",Holocaust,Holocaust
+Q1813571_0,<entity1>,['Artwork'],Apocalypse of Pseudo-Methodius,Apokalypse des Pseudo-Methodius
+Q1813571_0,<entity2>,['Artwork'],Syriac Christian,Syrisch-christlich
+Q1813571_1,<entity1>,['Artwork'],Apocalypse of Pseudo-Methodius,Apokalypse des Pseudo-Methodius
+Q1813571_2,<entity1>,['Artwork'],Apocalypse of Pseudo-Methodius,Apokalypse des Pseudo-Methodius
+Q187499_0,<entity1>,"['Place of worship', 'Artwork']",Shrine of Bahá'u'lláh,Schrein Bahá'u'lláhs
+Q187499_1,<entity1>,"['Place of worship', 'Artwork']",Shrine of Bahá'u'lláh,Schrein Bahá'u'lláhs
+Q187499_2,<entity1>,"['Place of worship', 'Artwork']",Shrine of Bahá'u'lláh,Schrein Bahá'u'lláhs
+Q18786543_0,<entity1>,['Artwork'],Everything I Never Told You: A Novel,Was ich euch nicht erzählte
+Q18786543_1,<entity1>,['Artwork'],Everything I Never Told You: A Novel,Was ich euch nicht erzählte
+Q18786543_2,<entity1>,['Artwork'],Everything I Never Told You: A Novel,Was ich euch nicht erzählte
+Q18786543_2,<entity2>,['Artwork'],Celeste Ng,Celeste Ng
+Q191362_0,<entity1>,['Musical work'],Piano Concerto No. 15,Klavierkonzert Nr. 15
+Q191362_1,<entity1>,['Musical work'],Piano Concerto No. 15,Klavierkonzert Nr. 15
+Q191362_1,<entity2>,['Musical work'],Mozart,Mozart
+Q191362_2,<entity1>,['Musical work'],Piano Concerto No. 15,Klavierkonzert Nr. 15
+Q191362_2,<entity2>,['Musical work'],Mozart,Mozart
+Q196161_0,<entity1>,['Place of worship'],Cathedral of Ani,Kathedrale von Ani
+Q196161_0,<entity2>,['Place of worship'],Armenian,Armenisch
+Q196161_1,<entity1>,['Place of worship'],Cathedral of Ani,Kathedrale von Ani
+Q196161_2,<entity1>,['Place of worship'],Cathedral of Ani,Kathedrale von Ani
+Q1970746_0,<entity1>,['Book'],Explanatory Dictionary of the Living Great Russian Language,Wörterbuch der lebendigen großrussischen Sprache
+Q1970746_1,<entity1>,['Book'],Explanatory Dictionary of the Living Great Russian Language,Wörterbuch der lebendigen großrussischen Sprache
+Q1970746_2,<entity1>,['Book'],Explanatory Dictionary of the Living Great Russian Language,Wörterbuch der lebendigen großrussischen Sprache
+Q1975060_0,<entity1>,['Book'],Screw Style,Screw Style
+Q1975060_1,<entity1>,['Book'],Screw Style,Screw Style
+Q1975060_2,<entity1>,['Book'],Screw Style,Screw Style
+Q20107429_0,<entity1>,['Person'],Nicolas,Nicolas
+Q20107429_0,<entity2>,['Person'],Ångermanland,Ångermanland
+Q20107429_1,<entity1>,['Person'],Nicolas,Nicolas
+Q20107429_1,<entity2>,['Person'],Ångermanland,Ångermanland
+Q20107429_2,<entity1>,['Person'],Nicolas,Nicolas
+Q20107429_2,<entity2>,['Person'],Ångermanland,Ångermanland
+Q2030868_0,<entity1>,['TV series'],All Dogs Go to Heaven: The Series,Charlie – Alle Hunde kommen in den Himmel
+Q2030868_1,<entity1>,['TV series'],All Dogs Go to Heaven: The Series,Charlie – Alle Hunde kommen in den Himmel
+Q2030868_2,<entity1>,['TV series'],All Dogs Go to Heaven: The Series,Charlie – Alle Hunde kommen in den Himmel
+Q2045474_0,<entity1>,"['Artwork', 'Book']",Time of Contempt,Die Zeit der Verachtung
+Q2045474_1,<entity1>,"['Artwork', 'Book']",Time of Contempt,Die Zeit der Verachtung
+Q2045474_2,<entity1>,"['Artwork', 'Book']",Time of Contempt,Die Zeit der Verachtung
+Q2057743_0,<entity1>,['TV series'],Born Free,Frei geboren
+Q2057743_1,<entity1>,['TV series'],Born Free,Frei geboren
+Q2057743_2,<entity1>,['TV series'],Born Free,Frei geboren
+Q2062054_0,<entity1>,['Place of worship'],Mar Mattai,Kloster Mor Mattai
+Q2062054_1,<entity1>,['Place of worship'],Mar Mattai,Kloster Mor Mattai
+Q2062054_2,<entity1>,['Place of worship'],Mar Mattai,Kloster Mor Mattai
+Q2078564_0,<entity1>,"['Artwork', 'Book']",Guards! Guards,Wachen! Wachen!
+Q2078564_1,<entity1>,"['Artwork', 'Book']",Guards! Guards!,Wachen! Wachen!
+Q2078564_2,<entity1>,"['Artwork', 'Book']",Guards! Guards!,Wachen! Wachen!
+Q2083761_0,<entity1>,['Place of worship'],Rochefort Abbey,Abtei Rochefort
+Q2083761_1,<entity1>,['Place of worship'],Rochefort Abbey,Abtei Rochefort
+Q2083761_2,<entity1>,['Place of worship'],Rochefort Abbey,Abtei Rochefort
+Q209515_0,<entity1>,['Artwork'],Book of One Thousand and One Nights,Tausendundeine Nacht
+Q209515_0,<entity2>,['Artwork'],Aladdin,Aladin
+Q209515_0,<entity3>,['Artwork'],Wonderful Lamp,Wunderlampe
+Q209515_1,<entity1>,['Artwork'],Aladdin and the Wonderful Lamp,Aladin und die Wunderlampe
+Q209515_2,<entity1>,['Artwork'],Aladdin,Aladin
+Q209515_2,<entity2>,['Artwork'],Wonderful Lamp,Wunderlampe
+Q209515_2,<entity3>,['Artwork'],Middle Eastern,Nahöstlich
+Q210549_0,<entity1>,['Musical work'],Symphony No. 2,Sinfonie Nr. 2
+Q210549_1,<entity1>,['Musical work'],Symphony No. 2,Sinfonie Nr. 2
+Q210549_2,<entity1>,['Musical work'],Symphony No. 2,Sinfonie Nr. 2
+Q21146531_0,<entity1>,['Movie'],Tatort: Burned,Tatort: Verbrannt
+Q21146531_1,<entity1>,['Movie'],Tatort: Burned,Tatort: Verbrannt
+Q21146531_2,<entity1>,['Movie'],Tatort: Burned,Tatort: Verbrannt
+Q2203334_0,<entity1>,['Fictional entity'],Master Sword,Master-Schwert
+Q2203334_0,<entity2>,['Fictional entity'],Legend of Zelda,Legend of Zelda
+Q2203334_1,<entity1>,['Fictional entity'],Master Sword,Master-Schwert
+Q2203334_1,<entity2>,['Fictional entity'],The Legend of Zelda,The Legend of Zelda
+Q2203334_2,<entity1>,['Fictional entity'],Master Sword,Master-Schwert
+Q2203334_2,<entity2>,['Fictional entity'],The Legend of Zelda,The Legend of Zelda
+Q2204257_0,<entity1>,['Food'],Liege,Lüttich
+Q2204257_1,<entity1>,['Food'],Liege,Lüttich
+Q2204257_2,<entity1>,['Food'],Liege,Lüttich
+Q223533_0,<entity1>,['Musical work'],Symphony No. 3,Sinfonie Nr. 3
+Q223533_1,<entity1>,['Musical work'],Symphony No. 3,Sinfonie Nr. 3
+Q223533_2,<entity1>,['Musical work'],Symphony No. 3,Sinfonie Nr. 3
+Q2236899_0,<entity1>,['Artwork'],Battle of Cascina,Schlacht von Cascina
+Q2236899_1,<entity1>,['Artwork'],Michelangelo,Michelangelo
+Q2236899_1,<entity2>,['Artwork'],Battle of Cascina,Schlacht von Cascina
+Q2236899_2,<entity1>,['Artwork'],Battle of Cascina,Schlacht von Cascina
+Q2258329_0,<entity1>,"['Artwork', 'Book']",Anne Rice,Anne Rice
+Q2258329_0,<entity2>,"['Artwork', 'Book']",The Witching Hour,Hexenstunde
+Q2258329_1,<entity1>,"['Artwork', 'Book']",The Witching Hour,Hexenstunde
+Q2258329_2,<entity1>,"['Artwork', 'Book']",The Witching Hour,Hexenstunde
+Q226936_0,<entity1>,['Musical work'],Symphony No. 36,Sinfonie Nr. 36
+Q226936_1,<entity1>,['Musical work'],Symphony No. 36,Sinfonie Nr. 36
+Q226936_2,<entity1>,['Musical work'],Symphony No. 36,Sinfonie Nr. 36
+Q2273327_0,<entity1>,['Place of worship'],Mezhyhirya Monastery,Meschyhirja-Kloster
+Q2273327_1,<entity1>,['Place of worship'],Mezhyhirya Monastery,Meschyhirja-Kloster
+Q2273327_2,<entity1>,['Place of worship'],Mezhyhirya Monastery,Meschyhirja-Kloster
+Q229189_0,<entity1>,['Person'],Joan I,Johanna I.
+Q229189_0,<entity2>,['Person'],Navarre,Navarra
+Q229189_1,<entity1>,['Person'],Joan I of Navarre,Johanna I. von Navarra
+Q229189_2,<entity1>,['Person'],Joan I of,Johanna I. von
+Q229189_2,<entity2>,['Person'],Navarre,Navarra
+Q230255_0,<entity1>,['Artwork'],4 Maccabees,4. Buch der Makkabäer
+Q230255_1,<entity1>,['Artwork'],4 Maccabees,4. Buch der Makkabäer
+Q230255_2,<entity1>,['Artwork'],4 Maccabees,4. Buch der Makkabäer
+Q231162_0,<entity1>,['Musical work'],Symphony No. 4,Sinfonie Nr. 4
+Q231162_0,<entity2>,['Musical work'],Anton Bruckner,Anton Bruckner
+Q231162_1,<entity1>,['Musical work'],Symphony No. 4,Sinfonie Nr. 4
+Q231162_1,<entity2>,['Musical work'],Anton Bruckner,Anton Bruckner
+Q231162_2,<entity1>,['Musical work'],Symphony No. 4,Sinfonie Nr. 4
+Q231282_0,<entity1>,['Musical work'],Symphony No. 4,Sinfonie Nr. 4
+Q231282_1,<entity1>,['Musical work'],Symphony No. 4,Sinfonie Nr. 4
+Q231282_2,<entity1>,['Musical work'],Symphony No. 4,Sinfonie Nr. 4
+Q231282_2,<entity2>,['Musical work'],Pyotr Ilyich Tchaikovsky,Pjotr Iljitsch Tschaikowski
+Q232938_0,<entity1>,['Movie'],Carry On Nurse,Ist ja irre – 41 Grad Liebe
+Q232938_1,<entity1>,['Movie'],Carry On Nurse,Ist ja irre – 41 Grad Liebe
+Q232938_2,<entity1>,['Movie'],Nurse,Krankenschwester
+Q23296514_0,<entity1>,['Place of worship'],Wat Sam Phran,Wat Sam Phran
+Q23296514_1,<entity1>,['Place of worship'],Wat Sam Phran,Wat Sam Phran
+Q23296514_2,<entity1>,['Place of worship'],Wat Sam Phran,Wat Sam Phran
+Q233562_0,<entity1>,['Artwork'],The Wealth of Nations,Der Wohlstand der Nationen
+Q233562_1,<entity1>,['Artwork'],The Wealth of Nations,Der Wohlstand der Nationen
+Q233562_2,<entity1>,['Artwork'],The Wealth of Nations,Der Wohlstand der Nationen
+Q238539_0,<entity1>,['Person'],Fawzia Fuad,Fausia Fuad
+Q238539_1,<entity1>,['Person'],Fawzia Fuad,Fausia Fuad
+Q238539_2,<entity1>,['Person'],Fawzia Fuad,Fausia Fuad
+Q2404788_1,<entity1>,['Fictional entity'],Seamus O'Hara,Seamus O'Hara
+Q2404788_1,<entity2>,['Fictional entity'],Disney,Disney
+Q2414756_0,<entity1>,"['Artwork', 'Book']",The Last Wish,Der letzte Wunsch
+Q2414756_1,<entity1>,"['Artwork', 'Book']",The Last Wish,Der letzte Wunsch
+Q2414756_2,<entity1>,"['Artwork', 'Book']",The Last Wish,Der letzte Wunsch
+Q2415527_0,<entity1>,['Person'],Adelaide,Adelheid
+Q2415527_0,<entity2>,['Person'],Normandy,Normandie
+Q2415527_1,<entity1>,['Person'],Adelaide,Adelheid
+Q2415527_1,<entity2>,['Person'],Normandy,Normandie
+Q2415527_2,<entity1>,['Person'],Adelaide,Adelheid
+Q2415527_2,<entity2>,['Person'],Normandy,Normandie
+Q242270_0,<entity1>,['Person'],Hecataeus,Hekataios
+Q242270_0,<entity2>,['Person'],Miletus,Milet
+Q242270_1,<entity1>,['Person'],Hecataeus,Hekataios
+Q242270_1,<entity2>,['Person'],Miletus,Milet
+Q242270_2,<entity1>,['Person'],Hecataeus,Hekataios
+Q242270_2,<entity2>,['Person'],Miletus,Milet
+Q2454607_0,<entity1>,['Place of worship'],Bradford Cathedral,Kathedrale von Bradford
+Q2454607_0,<entity2>,['Place of worship'],West Yorkshire,West Yorkshire
+Q2454607_0,<entity3>,['Place of worship'],England,England
+Q2454607_1,<entity1>,['Place of worship'],Bradford Cathedral,Kathedrale von Bradford
+Q2454607_2,<entity1>,['Place of worship'],Bradford Cathedral,Kathedrale von Bradford
+Q246487_0,<entity1>,['Musical work'],Symphony No. 6,Sinfonie Nr. 6
+Q246487_1,<entity1>,['Musical work'],Symphony No. 6,Sinfonie Nr. 6
+Q246487_2,<entity1>,['Musical work'],Symphony No. 6,Sinfonie Nr. 6
+Q2479670_0,<entity1>,['Fictional entity'],Bleeding Gums Murphy,Zahnfleischbluter Murphy
+Q2479670_0,<entity2>,['Fictional entity'],The Simpsons,Die Simpsons
+Q2479670_1,<entity1>,['Fictional entity'],Bleeding Gums Murphy,Zahnfleischbluter Murphy
+Q2479670_2,<entity1>,['Fictional entity'],Bleeding Gums Murphy,Zahnfleischbluter Murphy
+Q2585441_0,<entity1>,['Book'],We Wish to Inform You That Tomorrow We Will,"Wir möchten Ihnen mitteilen, dass wir morgen"
+Q2585441_1,<entity1>,['Book'],We Wish to Inform You That,"Wir möchten Ihnen mitteilen, dass"
+Q2585441_2,<entity1>,['Book'],We Wish to Inform You That,"Wir möchten Ihnen mitteilen, dass"
+Q259971_0,<entity1>,['Place of worship'],Andechs Abbey,Kloster Andechs
+Q259971_1,<entity1>,['Place of worship'],Andechs Abbey,Kloster Andechs
+Q259971_2,<entity1>,['Place of worship'],Andechs Abbey,Kloster Andechs
+Q2605100_0,<entity1>,['Landmark'],Church of St. Martin the Confessor,Kirche des Heiligen Martin des Bekenners
+Q2605100_0,<entity2>,['Landmark'],Moscow,Moskau
+Q2605100_1,<entity1>,['Landmark'],Church of St. Martin the Confessor,Kirche des Heiligen Martin des Bekenners
+Q2605100_1,<entity2>,['Landmark'],Moscow,Moskau
+Q2605100_2,<entity1>,['Landmark'],Church of St. Martin the Confessor,Kirche des Heiligen Martin des Bekenners
+Q2605100_2,<entity2>,['Landmark'],Moscow,Moskau
+Q260988_0,<entity1>,['Musical work'],Symphony No. 7,Sinfonie Nr. 7
+Q260988_1,<entity1>,['Musical work'],Symphony No. 7,Sinfonie Nr. 7
+Q260988_1,<entity2>,['Musical work'],Bruckner,Bruckner
+Q260988_2,<entity1>,['Musical work'],Symphony No. 7,Sinfonie Nr. 7
+Q2612052_0,<entity1>,['Musical work'],String Quartet No. 3,Streichquartett Nr. 3
+Q2612052_1,<entity1>,['Musical work'],String Quartet No. 3,Streichquartett Nr. 3
+Q2612052_2,<entity1>,['Musical work'],String Quartet No. 3,Streichquartett Nr. 3
+Q2617763_0,<entity1>,['Fictional entity'],Spacing Guild,Raumgilde
+Q2617763_0,<entity2>,['Fictional entity'],Dune,Dune
+Q2617763_1,<entity1>,['Fictional entity'],Spacing Guild,Raumgilde
+Q2617763_1,<entity2>,['Fictional entity'],Dune,Dune
+Q2617763_2,<entity1>,['Fictional entity'],Spacing Guild,Raumgilde
+Q2634129_0,<entity1>,"['Artwork', 'Book']",The Scarlet Plague,Die scharlachrote Pest
+Q2634129_1,<entity1>,"['Artwork', 'Book']",The Scarlet Plague,Die scharlachrote Pest
+Q2634129_2,<entity1>,"['Artwork', 'Book']",The Scarlet Plague,Die scharlachrote Pest
+Q2638238_2,<entity1>,['Landmark'],Vyborg,Wiborg
+Q2638238_2,<entity2>,['Landmark'],station,Bahnhof
+Q2657392_0,<entity1>,"['Artwork', 'Book']",The Hand of Oberon,Die Hand Oberons
+Q2657392_1,<entity1>,"['Artwork', 'Book']",The Hand of Oberon,Die Hand Oberons
+Q2657392_2,<entity1>,"['Artwork', 'Book']",The Hand of Oberon,Die Hand Oberons
+Q2663347_0,<entity1>,['Musical work'],"White Army, Black Baron","Weiße Armee, schwarzer Baron"
+Q2663347_1,<entity1>,['Musical work'],White Army,Weiße Armee
+Q2663347_1,<entity2>,['Musical work'],Black Baron,Schwarzer Baron
+Q2663347_2,<entity1>,['Musical work'],White Army,Weiße Armee
+Q2663347_2,<entity2>,['Musical work'],Black Baron,Schwarzer Baron
+Q2691931_0,<entity1>,['Movie'],Twice in a Lifetime,Zweimal im Leben
+Q2691931_1,<entity1>,['Movie'],Twice in a Lifetime,Zweimal im Leben
+Q2691931_2,<entity1>,['Movie'],Twice in a Lifetime,Zweimal im Leben
+Q2712995_0,<entity1>,['Artwork'],Time to Live,Zeit zu leben
+Q2712995_0,<entity2>,['Artwork'],Time to Die,Zeit zu sterben
+Q2712995_1,<entity1>,['Artwork'],Time to Live and,Zeit zu leben und
+Q2712995_1,<entity2>,['Artwork'],Time to Die,Zeit zu sterben
+Q2712995_2,<entity1>,['Artwork'],Time to Live,Zeit zu leben
+Q2712995_2,<entity2>,['Artwork'],Time to Die,Zeit zu sterben
+Q2715152_0,<entity1>,['Artwork'],The Parnassus,Der Parnass
+Q2715152_1,<entity1>,['Artwork'],The Parnassus,Der Parnass
+Q2715152_2,<entity1>,['Artwork'],The Parnassus,Der Parnass
+Q2719978_0,<entity1>,['Movie'],Pennies from Heaven,Tanz in den Wolken
+Q2719978_1,<entity1>,['Movie'],Pennies from Heaven,Tanz in den Wolken
+Q2719978_2,<entity1>,['Movie'],Pennies from Heaven,Tanz in den Wolken
+Q272781_0,<entity1>,['Place of worship'],Jerónimos Monastery,Hieronymuskloster
+Q272781_1,<entity1>,['Place of worship'],Jerónimos Monastery,Hieronymuskloster
+Q272781_2,<entity1>,['Place of worship'],Jerónimos Monastery,Hieronymuskloster
+Q272781_2,<entity2>,['Place of worship'],Lisbon,Lissabon
+Q2739228_0,<entity1>,"['Person', 'Fictional entity']",Snow White and the Seven Dwarfs,Schneewittchen und die sieben Zwerge
+Q2739228_1,<entity1>,"['Person', 'Fictional entity']",Disney,Disney
+Q2739228_1,<entity2>,"['Person', 'Fictional entity']",Snow White,Schneewittchen
+Q2739228_2,<entity1>,"['Person', 'Fictional entity']",Snow White,Schneewittchen
+Q276569_0,<entity1>,['Place of worship'],Quba Mosque,Qubā'-Moschee
+Q276569_1,<entity1>,['Place of worship'],Quba Mosque,Qubā'-Moschee
+Q276569_2,<entity1>,['Place of worship'],Quba Mosque,Qubā'-Moschee
+Q2820278_0,<entity1>,['Place of worship'],Ardèche,Ardèche
+Q2820278_0,<entity2>,['Place of worship'],France,Frankreich
+Q2820278_0,<entity3>,['Place of worship'],Our Lady of the Snows,Unsere Liebe Frau vom Schnee
+Q2820278_1,<entity1>,['Place of worship'],Our Lady of the Snows,Unsere Liebe Frau vom Schnee
+Q2820278_2,<entity1>,['Place of worship'],Our Lady of the Snows,Unsere Liebe Frau vom Schnee
+Q2820602_0,<entity1>,['Place of worship'],Mont Sainte-Odile Abbey,Kloster Odilienberg
+Q2820602_1,<entity1>,['Place of worship'],Mont Sainte-Odile Abbey,Kloster Odilienberg
+Q2820602_2,<entity1>,['Place of worship'],Mont Sainte-Odile Abbey,Kloster Odilienberg
+Q2918397_0,<entity1>,['Movie'],The Bugs Bunny/,Bugs Bunny/
+Q2918397_0,<entity2>,['Movie'],Road Runner Movie,Road Runner Film
+Q2918397_1,<entity1>,['Movie'],The Bugs Bunny/,Bugs Bunny/
+Q2918397_1,<entity2>,['Movie'],Road Runner Movie,Road Runner Film
+Q2918397_2,<entity1>,['Movie'],The Bugs Bunny,Bugs Bunny
+Q2918397_2,<entity2>,['Movie'],Road Runner Movie,Road Runner Film
+Q303756_0,<entity1>,['Landmark'],Saint,Sankt
+Q303756_0,<entity2>,['Landmark'],Sophia Cathedral,Sophienkathedrale
+Q303756_0,<entity3>,['Landmark'],Novgorod,Nowgorod
+Q303756_1,<entity1>,['Landmark'],Saint Sophia Cathedral,Sophienkathedrale
+Q303756_1,<entity2>,['Landmark'],Novgorod,Nowgorod
+Q303756_2,<entity1>,['Landmark'],Saint Sophia Cathedral,Sophienkathedrale
+Q303756_2,<entity2>,['Landmark'],Novgorod,Nowgorod
+Q305419_0,<entity1>,['Place of worship'],Basilica of Our Lady of Guadalupe,Basilika Unserer Lieben Frau von Guadalupe
+Q305419_0,<entity2>,['Place of worship'],Mexican,Mexikanisch
+Q305419_1,<entity1>,['Place of worship'],Basilica of Our Lady of Guadalupe,Basilika Unserer Lieben Frau von Guadalupe
+Q305419_2,<entity1>,['Place of worship'],Basilica of Our Lady of Guadalupe,Basilika Unserer Lieben Frau von Guadalupe
+Q310549_0,<entity1>,['Musical work'],Mass,Messe
+Q310549_1,<entity1>,['Musical work'],Mass,Messe
+Q310549_2,<entity1>,['Musical work'],Mass,Messe
+Q312491_0,<entity1>,['Person'],John Malalas,Johannes Malalas
+Q312491_1,<entity1>,['Person'],John Malalas,Johannes Malalas
+Q312491_2,<entity1>,['Person'],John Malalas,Johannes Malalas
+Q3133305_0,<entity1>,['Musical work'],String Quartet No. 21,Streichquartett Nr. 21
+Q3133305_1,<entity1>,['Musical work'],String Quartet No. 21,Streichquartett Nr. 21
+Q3133305_2,<entity1>,['Musical work'],String Quartet No. 21,Streichquartett Nr. 21
+Q31416_0,<entity1>,"['Place of worship', 'Landmark']",Antoniev Monastery,Antoniuskloster
+Q31416_1,<entity1>,"['Place of worship', 'Landmark']",Antoniev Monastery,Antoniuskloster
+Q31416_2,<entity1>,"['Place of worship', 'Landmark']",Antoniev Monastery,Antoniuskloster
+Q3206562_0,<entity1>,['Movie'],Slave Girl,Die Sklavin der Piraten
+Q3206562_1,<entity1>,['Movie'],Slave Girl,Die Sklavin der Piraten
+Q3206562_2,<entity1>,['Movie'],Slave Girl,Die Sklavin der Piraten
+Q3224451_0,<entity1>,['Artwork'],The Stationmaster,Der Postmeister
+Q3224451_1,<entity1>,['Artwork'],The Stationmaster,Der Postmeister
+Q3224451_2,<entity1>,['Artwork'],The Stationmaster,Der Postmeister
+Q3233113_0,<entity1>,['Movie'],Warriors of Virtue,Die Krieger des Tao-Universums
+Q3233113_1,<entity1>,['Movie'],Warriors of Virtue,Die Krieger des Tao-Universums
+Q3233113_2,<entity1>,['Movie'],Warriors of Virtue,Die Krieger des Tao-Universums
+Q333280_1,<entity1>,['Musical work'],G,G
+Q334199_0,<entity1>,['Place of worship'],Monastery of Saint-Paul-de-Mausole,Kloster Saint-Paul-de-Mausole
+Q334199_1,<entity1>,['Place of worship'],Monastery of Saint-Paul-de-Mausole,Kloster Saint-Paul-de-Mausole
+Q334199_2,<entity1>,['Place of worship'],Monastery of Saint-Paul-de-Mausole,Kloster Saint-Paul-de-Mausole
+Q3369166_0,<entity1>,['Movie'],"Can You Whistle, Johanna","Kannst du pfeifen, Johanna?"
+Q3369166_1,<entity1>,['Movie'],"Can You Whistle, Johanna","Kannst du pfeifen, Johanna?"
+Q3369166_2,<entity1>,['Movie'],Johanna,Johanna
+Q3369166_2,<entity2>,['Movie'],"Can You Whistle, Johanna","Kannst du pfeifen, Johanna?"
+Q347374_0,<entity1>,['Person'],Gustaf Adolf,Gustav Adolf
+Q347374_0,<entity2>,['Person'],Västerbotten,Västerbotten
+Q347374_1,<entity1>,['Person'],Gustaf Adolf,Gustav Adolf
+Q347374_1,<entity2>,['Person'],Västerbotten,Västerbotten
+Q347374_2,<entity1>,['Person'],Gustaf Adolf,Gustav Adolf
+Q347374_2,<entity2>,['Person'],Västerbotten,Västerbotten
+Q3485664_0,<entity1>,['Musical work'],Six Pieces for Piano,Sechs Klavierstücke
+Q3485664_0,<entity2>,['Musical work'],Op,Op.
+Q3485664_0,<entity3>,['Musical work'],118,118
+Q3485664_1,<entity1>,['Musical work'],Six Pieces for Piano,Sechs Klavierstücke
+Q3485664_1,<entity2>,['Musical work'],Op,Op.
+Q3485664_1,<entity3>,['Musical work'],118,118
+Q3485664_2,<entity1>,['Musical work'],Six Pieces for Piano,Sechs Klavierstücke
+Q3485664_2,<entity2>,['Musical work'],Op,Op.
+Q3485664_2,<entity3>,['Musical work'],118,118
+Q3620148_0,<entity1>,['Place of worship'],Holy of Holies,Allerheiligstes
+Q3620148_1,<entity1>,['Place of worship'],Holy of Holies,Allerheiligstes
+Q3620148_2,<entity1>,['Place of worship'],of Holies,des Allerheiligsten
+Q372907_1,<entity1>,['Musical work'],Violin Concerto,Violinkonzert
+Q372907_2,<entity1>,['Musical work'],Violin Concerto,Violinkonzert
+Q372907_2,<entity2>,['Musical work'],Tchaikovsky,Tschaikowski
+Q3821338_0,<entity1>,['Movie'],Ballad of the Little Soldier,Ballade vom kleinen Soldaten
+Q3821338_1,<entity1>,['Movie'],Ballad of the Little Soldier,Ballade vom kleinen Soldaten
+Q3821338_2,<entity1>,['Movie'],Ballad of the Little Soldier,Ballade vom kleinen Soldaten
+Q3925518_0,<entity1>,['Artwork'],Siena Cathedral Pulpit,Kanzel des Doms von Siena
+Q3925518_1,<entity1>,['Artwork'],Siena Cathedral Pulpit,Kanzel des Doms von Siena
+Q3925518_2,<entity1>,['Artwork'],Siena Cathedral Pulpit,Kanzel des Doms von Siena
+Q4024504_0,<entity1>,"['Person', 'Fictional entity']",Uncle Henry,Onkel Henry
+Q4024504_0,<entity2>,"['Person', 'Fictional entity']",L,L
+Q4024504_0,<entity3>,"['Person', 'Fictional entity']",. Frank Baum,. Frank Baum
+Q4024504_0,<entity4>,"['Person', 'Fictional entity']",Oz-series,Oz-Reihe
+Q4024504_1,<entity1>,"['Person', 'Fictional entity']",Uncle Henry,Onkel Henry
+Q4024504_1,<entity2>,"['Person', 'Fictional entity']",L,L
+Q4024504_1,<entity3>,"['Person', 'Fictional entity']",. Frank Baum,. Frank Baum
+Q4024504_1,<entity4>,"['Person', 'Fictional entity']",Oz-series,Oz-Reihe
+Q4024504_2,<entity1>,"['Person', 'Fictional entity']",Uncle Henry,Onkel Henry
+Q4024504_2,<entity2>,"['Person', 'Fictional entity']",L,L
+Q4024504_2,<entity3>,"['Person', 'Fictional entity']",. Frank Baum,. Frank Baum
+Q4024504_2,<entity4>,"['Person', 'Fictional entity']",Oz-series,Oz-Reihe
+Q40309_0,<entity1>,"['Artwork', 'Book']",Bible,Bibel
+Q40309_0,<entity2>,"['Artwork', 'Book']",Acts of the Apostles,Apostelgeschichte
+Q40309_1,<entity1>,"['Artwork', 'Book']",Acts of the Apostles,Apostelgeschichte
+Q40309_2,<entity1>,"['Artwork', 'Book']",Acts of the Apostles,Apostelgeschichte
+Q403351_0,<entity1>,['Musical work'],String Quartet No. 2,Streichquartett Nr. 2
+Q403351_1,<entity1>,['Musical work'],String Quartet No. 2,Streichquartett Nr. 2
+Q41359_0,<entity1>,"['Artwork', 'Book']",Kurt Vonnegut,Kurt Vonnegut
+Q41359_0,<entity2>,"['Artwork', 'Book']",Cat's Cradle,Katzenwiege
+Q41359_1,<entity1>,"['Artwork', 'Book']",Cat's Cradle,Katzenwiege
+Q41359_2,<entity1>,"['Artwork', 'Book']",Cat's Cradle,Katzenwiege
+Q4150068_0,<entity1>,['Artwork'],The Storm,Das Gewitter
+Q4150068_0,<entity2>,['Artwork'],Alexander Ostrovsky,Alexander Ostrowski
+Q4150068_1,<entity1>,['Artwork'],The Storm,Das Gewitter
+Q4150068_1,<entity2>,['Artwork'],Alexander Ostrovsky,Alexander Ostrowski
+Q4150068_2,<entity1>,['Artwork'],The Storm,Das Gewitter
+Q4150068_2,<entity2>,['Artwork'],Alexander Ostrovsky,Alexander Ostrowski
+Q41663451_0,<entity1>,"['Artwork', 'Book']","The Long Way to a Small, Angry Planet",Der lange Weg zu einem kleinen zornigen Planeten
+Q41663451_1,<entity1>,"['Artwork', 'Book']","The Long Way to a Small, Angry Planet",Der lange Weg zu einem kleinen zornigen Planeten
+Q41663451_2,<entity1>,"['Artwork', 'Book']","The Long Way to a Small, Angry Planet",Der lange Weg zu einem kleinen zornigen Planeten
+Q4198639_0,<entity1>,['Landmark'],Izmaylovo Estate,Landgut Izmaylovo
+Q4198639_1,<entity1>,['Landmark'],Izmaylovo Estate,Landgut Izmaylovo
+Q4198639_2,<entity1>,['Landmark'],Izmaylovo Estate,Landgut Izmaylovo
+Q4198639_2,<entity2>,['Landmark'],Russia,Russland
+Q4201575_0,<entity1>,['Landmark'],Marx-Engels-Lenin Institute,Marx-Engels-Lenin-Institut
+Q4201575_0,<entity2>,['Landmark'],Marxism,Marxismus
+Q4201575_0,<entity3>,['Landmark'],Soviet Union,Sowjetunion
+Q4201575_1,<entity1>,['Landmark'],Marx-Engels-Lenin Institute,Marx-Engels-Lenin-Institut
+Q4201575_1,<entity2>,['Landmark'],Soviet Union,Sowjetunion
+Q4201575_2,<entity1>,['Landmark'],Marx-Engels-Lenin Institute,Marx-Engels-Lenin-Institut
+Q42826001_0,<entity1>,['Artwork'],The Silent Death,Der stumme Tod
+Q42826001_1,<entity1>,['Artwork'],The Silent Death,Der stumme Tod
+Q42826001_2,<entity1>,['Artwork'],Volker Kutscher,Volker Kutscher
+Q42826001_2,<entity2>,['Artwork'],The Silent Death,Der stumme Tod
+Q4354348_0,<entity1>,"['Fictional entity', 'Person']",Tam Sventon,Ture Sventon
+Q4354348_1,<entity1>,"['Fictional entity', 'Person']",Tam Sventon,Ture Sventon
+Q4354348_2,<entity1>,"['Fictional entity', 'Person']",Tam Sventon,Ture Sventon
+Q437869_0,<entity1>,['Person'],Evagrius Ponticus,Euagrios Pontikos
+Q437869_1,<entity1>,['Person'],Evagrius Ponticus,Euagrios Pontikos
+Q437869_2,<entity1>,['Person'],Evagrius Ponticus,Euagrios Pontikos
+Q43968_0,<entity1>,['Movie'],The Trapp Family,Die Trapp-Familie
+Q43968_1,<entity1>,['Movie'],The Trapp Family,Die Trapp-Familie
+Q43968_2,<entity1>,['Movie'],The Trapp Family,Die Trapp-Familie
+Q4406483_0,<entity1>,['Movie'],The Most Charming and Attractive,Die Allerschönste
+Q4406483_0,<entity2>,['Movie'],Gerald Bezhanov,Gerald Beschanow
+Q4406483_1,<entity1>,['Movie'],The Most Charming and Attractive,Die Allerschönste
+Q4406483_2,<entity1>,['Movie'],The Most Charming and Attractive,Die Allerschönste
+Q4504846_0,<entity1>,['Landmark'],Saint Nicholas Church,Nikolaikirche
+Q4504846_0,<entity2>,['Landmark'],Lipno Island,Insel Lipno
+Q4504846_1,<entity1>,['Landmark'],Saint Nicholas Church,Nikolaikirche
+Q4504846_1,<entity2>,['Landmark'],Lipno Island,Insel Lipno
+Q4504846_2,<entity1>,['Landmark'],Saint Nicholas Church,Nikolaikirche
+Q4504846_2,<entity2>,['Landmark'],Lipno Island,Insel Lipno
+Q469199_0,<entity1>,['Person'],Victorinus of Pettau,Victorinus von Poetovio
+Q469199_0,<entity2>,['Person'],Christianity,Christentum
+Q469199_1,<entity1>,['Person'],Victorinus of Pettau,Victorinus von Poetovio
+Q469199_2,<entity1>,['Person'],Victorinus of Pettau,Victorinus von Poetovio
+Q476529_0,<entity1>,['Place of worship'],Winchester Cathedral,Kathedrale von Winchester
+Q476529_1,<entity1>,['Place of worship'],Winchester Cathedral,Kathedrale von Winchester
+Q476529_2,<entity1>,['Place of worship'],Winchester Cathedral,Kathedrale von Winchester
+Q476529_2,<entity2>,['Place of worship'],England,England
+Q477752_0,<entity1>,['Fictional entity'],Rules of Acquisition,Erwerbsregeln
+Q477752_1,<entity1>,['Fictional entity'],Ferengi Rule Book,Regelbuch der Ferengi
+Q477752_2,<entity1>,['Fictional entity'],of Acquisition,des Erwerbs
+Q477752_2,<entity2>,['Fictional entity'],Rules of Acquisition,Erwerbsregeln
+Q4880827_0,<entity1>,"['Artwork', 'Book']",Behind the Beautiful Forevers,Annawadi oder Der Traum von einem anderen Leben
+Q4880827_1,<entity1>,"['Artwork', 'Book']",Behind the Beautiful Forevers,Annawadi oder Der Traum von einem anderen Leben
+Q4880827_2,<entity1>,"['Artwork', 'Book']",Behind the Beautiful Forevers,Annawadi oder Der Traum von einem anderen Leben
+Q4882997_0,<entity1>,['Person'],Belizean Creole,Belize-Kreol
+Q4882997_1,<entity1>,['Person'],Belizean Creole,Belize-Kreol
+Q4882997_2,<entity1>,['Person'],European,Europäisch
+Q4882997_2,<entity2>,['Person'],Belizean Creole,Belize-Kreol
+Q502384_0,<entity1>,['Movie'],Gone in 60 Seconds,Nur noch 60 Sekunden
+Q502384_1,<entity1>,['Movie'],Gone in 60 Seconds,Nur noch 60 Sekunden
+Q502384_2,<entity1>,['Movie'],Gone in 60 Seconds,Nur noch 60 Sekunden
+Q513229_0,<entity1>,['Person'],Thimo the Brave,Thimo der Tapfere
+Q513229_0,<entity2>,['Person'],Wettin,Wettin
+Q51664_0,<entity1>,['Person'],Jesus,Jesus
+Q51664_0,<entity2>,['Person'],Islam,Islam
+Q51664_1,<entity1>,['Person'],Jesus,Jesus
+Q51664_1,<entity2>,['Person'],Islam,Islam
+Q52316_0,<entity1>,['Fictional entity'],Rebel Alliance,Rebellenallianz
+Q52316_0,<entity2>,['Fictional entity'],Galactic Empire,Galaktisches Imperium
+Q52316_1,<entity1>,['Fictional entity'],Rebel Alliance,Rebellenallianz
+Q52316_2,<entity1>,['Fictional entity'],Rebel Alliance,Rebellenallianz
+Q52347_0,<entity1>,['Fictional entity'],Galactic Empire,Galaktisches Imperium
+Q52347_0,<entity2>,['Fictional entity'],Star Wars,Star Wars
+Q52347_1,<entity1>,['Fictional entity'],Star Wars,Star Wars
+Q52347_1,<entity2>,['Fictional entity'],Galactic Empire,Galaktisches Imperium
+Q5422772_0,<entity1>,['Artwork'],Gaza,Gaza
+Q5422772_1,<entity1>,['Artwork'],Eyeless in Gaza,Geblendet in Gaza
+Q5422772_2,<entity1>,['Artwork'],Gaza,Gaza
+Q547209_0,<entity1>,['Movie'],Silk Stockings,Seidenstrümpfe
+Q547209_1,<entity1>,['Movie'],Silk Stockings,Seidenstrümpfe
+Q547209_2,<entity1>,['Movie'],Silk Stockings,Seidenstrümpfe
+Q550346_0,<entity1>,['Landmark'],Cathedral of Saint Demetrius,Demetrius-Kathedrale
+Q550346_1,<entity1>,['Landmark'],Cathedral of Saint Demetrius,Demetrius-Kathedrale
+Q550346_2,<entity1>,['Landmark'],Cathedral of Saint Demetrius,Demetrius-Kathedrale
+Q5531958_0,<entity1>,['Book'],General Instruction of the Roman Missal,Allgemeine Einführung in das Römische Messbuch
+Q5531958_1,<entity1>,['Book'],General Instruction of the Roman Missal,Allgemeine Einführung in das Römische Messbuch
+Q5531958_1,<entity2>,['Book'],Mass,Messe
+Q5531958_2,<entity1>,['Book'],General Instruction of the Roman Missal,Allgemeine Einführung in das Römische Messbuch
+Q5531958_2,<entity2>,['Book'],Roman Rite,Römischer Ritus
+Q56284270_0,<entity1>,['TV series'],My Lottery Dream Home,Mein Traum vom Luxusleben
+Q56284270_1,<entity1>,['TV series'],American,Amerikanisch
+Q56284270_1,<entity2>,['TV series'],My Lottery Dream Home,Mein Traum vom Luxusleben
+Q56284270_2,<entity1>,['TV series'],My Lottery Dream Home,Mein Traum vom Luxusleben
+Q571559_0,<entity1>,['Person'],Rudolph,Rudolf
+Q571559_0,<entity2>,['Person'],Lorraine,Lothringen
+Q571559_1,<entity1>,['Person'],Rudolph,Rudolf
+Q571559_1,<entity2>,['Person'],Lorraine,Lothringen
+Q571559_2,<entity1>,['Person'],Rudolph,Rudolf
+Q571559_2,<entity2>,['Person'],Lorraine,Lothringen
+Q578262_0,<entity1>,['Musical work'],Scythian Suite,Skythische Suite
+Q578262_1,<entity1>,['Musical work'],Scythian Suite,Skythische Suite
+Q578262_2,<entity1>,['Musical work'],Scythian Suite,Skythische Suite
+Q59242746_0,<entity1>,['TV series'],Motown Magic,Motown Magic
+Q59242746_0,<entity2>,['TV series'],Australian-American,Australisch-amerikanisch
+Q59242746_1,<entity1>,['TV series'],Motown Magic,Motown Magic
+Q59242746_2,<entity1>,['TV series'],Motown Magic,Motown Magic
+Q59543_0,<entity1>,['Movie'],Son of the Bride,Der Sohn der Braut
+Q59543_1,<entity1>,['Movie'],Son of the Bride,Der Sohn der Braut
+Q59543_2,<entity1>,['Movie'],Son of the Bride,Der Sohn der Braut
+Q597114_0,<entity1>,['Artwork'],Death of the Virgin,Tod Mariä
+Q602358_0,<entity1>,['Book'],Brockhaus and Efron Encyclopedic Dictionary,Enzyklopädisches Wörterbuch von Brockhaus und Efron
+Q602358_1,<entity1>,['Book'],Brockhaus and Efron Encyclopedic Dictionary,Enzyklopädisches Wörterbuch von Brockhaus und Efron
+Q602358_2,<entity1>,['Book'],Brockhaus and Efron Encyclopedic Dictionary,Enzyklopädisches Wörterbuch von Brockhaus und Efron
+Q605249_0,<entity1>,"['Artwork', 'Book']",Do Androids Dream of Electric Sheep,Träumen Androiden von elektrischen Schafen?
+Q605249_1,<entity1>,"['Artwork', 'Book']",Do Androids Dream of Electric Sheep,Träumen Androiden von elektrischen Schafen?
+Q605249_2,<entity1>,"['Artwork', 'Book']",Do Androids,Träumen Androiden
+Q6099564_0,<entity1>,['TV series'],Ivor the Engine,Ivor the Engine
+Q6099564_1,<entity1>,['TV series'],Ivor the Engine,Ivor the Engine
+Q6099564_2,<entity1>,['TV series'],Ivor the Engine,Ivor the Engine
+Q623153_0,<entity1>,['Artwork'],Theses on Feuerbach,Thesen über Feuerbach
+Q623153_1,<entity1>,['Artwork'],Theses on Feuerbach,Thesen über Feuerbach
+Q623153_2,<entity1>,['Artwork'],Theses on Feuerbach,Thesen über Feuerbach
+Q62401_0,<entity1>,['Person'],George,Georg
+Q62401_0,<entity2>,['Person'],Oldenburg,Oldenburg
+Q62401_1,<entity1>,['Person'],George of,Georg von
+Q62401_1,<entity2>,['Person'],Oldenburg,Oldenburg
+Q62401_2,<entity1>,['Person'],George,Georg
+Q62401_2,<entity2>,['Person'],Oldenburg,Oldenburg
+Q62483_0,<entity1>,['Person'],William,Wilhelm
+Q62483_0,<entity2>,['Person'],Jülich-Cleves-Berg,Jülich-Kleve-Berg
+Q62483_1,<entity1>,['Person'],William,Wilhelm
+Q62483_1,<entity2>,['Person'],Jülich-Cleves-Berg,Jülich-Kleve-Berg
+Q62483_2,<entity1>,['Person'],William,Wilhelm
+Q62483_2,<entity2>,['Person'],Jülich-Cleves-Berg,Jülich-Kleve-Berg
+Q62483_2,<entity3>,['Person'],Jülich-Cleves-Berg,Jülich-Kleve-Berg
+Q6316745_0,<entity1>,"['Person', 'Fictional entity']",Fairy Godmother,Gute Fee
+Q6316745_0,<entity2>,"['Person', 'Fictional entity']",Shrek,Shrek
+Q6316745_1,<entity1>,"['Person', 'Fictional entity']",Fairy Godmother,Gute Fee
+Q6316745_1,<entity2>,"['Person', 'Fictional entity']",Shrek,Shrek
+Q6316745_2,<entity1>,"['Person', 'Fictional entity']",Fairy Godmother,Gute Fee
+Q6316745_2,<entity2>,"['Person', 'Fictional entity']",Shrek,Shrek
+Q634325_0,<entity1>,['Movie'],The Rare Breed,Rancho River
+Q634325_1,<entity1>,['Movie'],The Rare Breed,Rancho River
+Q634325_2,<entity1>,['Movie'],The Rare Breed,Rancho River
+Q639184_0,<entity1>,['Fictional entity'],Seven Dwarfs,Sieben Zwerge
+Q639184_1,<entity1>,['Fictional entity'],Seven Dwarfs,Sieben Zwerge
+Q639184_1,<entity2>,['Fictional entity'],Snow White,Schneewittchen
+Q639184_2,<entity1>,['Fictional entity'],Snow White,Schneewittchen
+Q639184_2,<entity2>,['Fictional entity'],Seven Dwarfs,Sieben Zwerge
+Q652046_0,<entity1>,['Place of worship'],Muhammad Ali Mosque,Muhammad-Ali-Moschee
+Q652046_1,<entity1>,['Place of worship'],Muhammad Ali Mosque,Muhammad-Ali-Moschee
+Q652046_2,<entity1>,['Place of worship'],Muhammad Ali Mosque,Muhammad-Ali-Moschee
+Q6553565_0,<entity1>,['Musical work'],Trumpet Concerto,Trompetenkonzert
+Q6553565_1,<entity1>,['Musical work'],Trumpet Concerto,Trompetenkonzert
+Q6553565_2,<entity1>,['Musical work'],Trumpet Concerto,Trompetenkonzert
+Q664500_0,<entity1>,['Musical work'],Arnold Schoenberg,Arnold Schönberg
+Q664500_0,<entity2>,['Musical work'],A Survivor from Warsaw,Ein Überlebender aus Warschau
+Q664500_1,<entity1>,['Musical work'],A Survivor from Warsaw,Ein Überlebender aus Warschau
+Q664500_2,<entity1>,['Musical work'],A Survivor from Warsaw,Ein Überlebender aus Warschau
+Q669358_0,<entity1>,['Musical work'],Beethoven,Beethoven
+Q669358_0,<entity2>,['Musical work'],Violin Sonata No. 5,Violinsonate Nr. 5
+Q669358_1,<entity1>,['Musical work'],Violin Sonata No. 5,Violinsonate Nr. 5
+Q669358_2,<entity1>,['Musical work'],Beethoven,Beethoven
+Q669358_2,<entity2>,['Musical work'],Violin Sonata No. 5,Violinsonate Nr. 5
+Q6705257_0,<entity1>,"['Artwork', 'Book']","Lust, Caution",Gefahr und Begierde
+Q6705257_1,<entity1>,"['Artwork', 'Book']","Lust, Caution",Gefahr und Begierde
+Q687629_0,<entity1>,['Landmark'],Batu Caves,Batu-Höhlen
+Q687629_1,<entity1>,['Landmark'],Batu Caves,Batu-Höhlen
+Q687629_2,<entity1>,['Landmark'],Batu Caves,Batu-Höhlen
+Q687629_2,<entity2>,['Landmark'],Malaysia,Malaysia
+Q688919_0,<entity1>,['Artwork'],The Visit,Der Besuch der alten Dame
+Q688919_1,<entity1>,['Artwork'],The Visit,Der Besuch der alten Dame
+Q688919_2,<entity1>,['Artwork'],The Visit,Der Besuch der alten Dame
+Q6945559_0,<entity1>,"['Movie', 'TV series']",My Ghost Story,Mein Geist schläft nie
+Q6945559_1,<entity1>,"['Movie', 'TV series']",My Ghost Story,Mein Geist schläft nie
+Q6945559_2,<entity1>,"['Movie', 'TV series']",My Ghost Story,Mein Geist schläft nie
+Q699448_0,<entity1>,"['Landmark', 'Artwork']",Monument to the Battle of the Nations,Völkerschlachtdenkmal
+Q699448_1,<entity1>,"['Landmark', 'Artwork']",Monument to the Battle of the Nations,Völkerschlachtdenkmal
+Q699448_1,<entity2>,"['Landmark', 'Artwork']",Germany,Deutschland
+Q699448_2,<entity1>,"['Landmark', 'Artwork']",Monument to the Battle of the Nations,Völkerschlachtdenkmal
+Q704973_0,<entity1>,['Person'],Theodoros II Palaiologos,Theodor II. Palaiologos
+Q704973_1,<entity1>,['Person'],Theodoros II Palaiologos,Theodor II. Palaiologos
+Q704973_1,<entity2>,['Person'],Morea,Morea
+Q704973_2,<entity1>,['Person'],Theodoros II Palaiologos,Theodor II. Palaiologos
+Q7203254_0,<entity1>,['Book'],Player's Handbook,Spielerhandbuch
+Q7203254_0,<entity2>,['Book'],Dungeons & Dragons,Dungeons & Dragons
+Q7203254_1,<entity1>,['Book'],Player's Handbook,Spielerhandbuch
+Q7203254_2,<entity1>,['Book'],Player's Handbook,Spielerhandbuch
+Q7203254_2,<entity2>,['Book'],D&D,D&D
+Q720984_0,<entity1>,['Person'],Theodotus,Theodotos
+Q720984_0,<entity2>,['Person'],Byzantium,Byzanz
+Q720984_1,<entity1>,['Person'],Theodotus,Theodotos
+Q720984_1,<entity2>,['Person'],Byzantium,Byzanz
+Q720984_2,<entity1>,['Person'],Theodotus of Byzantium,Theodotos von Byzanz
+Q7231687_0,<entity1>,['Artwork'],Porterhouse Blue,Puppenmord
+Q7231687_1,<entity1>,['Artwork'],Porterhouse Blue,Puppenmord
+Q7231687_2,<entity1>,['Artwork'],Porterhouse Blue,Puppenmord
+Q732949_0,<entity1>,['Musical work'],Songs Without Words,Lieder ohne Worte
+Q732949_1,<entity1>,['Musical work'],Songs Without Words,Lieder ohne Worte
+Q732949_2,<entity1>,['Musical work'],Songs Without Words,Lieder ohne Worte
+Q735263_0,<entity1>,['TV series'],The Busy World,Die fröhliche Welt
+Q735263_0,<entity2>,['TV series'],Richard Scarry,Richard Scarry
+Q735263_1,<entity1>,['TV series'],The Busy World of,Die fröhliche Welt von
+Q735263_1,<entity2>,['TV series'],Richard Scarry,Richard Scarry
+Q735263_2,<entity1>,['TV series'],The Busy World of,Die fröhliche Welt von
+Q735263_2,<entity2>,['TV series'],Richard Scarry,Richard Scarry
+Q7448655_0,<entity1>,['TV series'],Selling Hitler,Hitler zu verkaufen
+Q7448655_1,<entity1>,['TV series'],Selling Hitler,Hitler zu verkaufen
+Q7448655_2,<entity1>,['TV series'],Selling Hitler,Hitler zu verkaufen
+Q746666_0,<entity1>,['Musical work'],Ring a Ring o' Roses,"Ringel, Ringel, Reihe"
+Q746666_1,<entity1>,['Musical work'],Ring a Ring o' Roses,"Ringel, Ringel, Reihe"
+Q746666_2,<entity1>,['Musical work'],Ring a Ring o' Roses,"Ringel, Ringel, Reihe"
+Q748125_0,<entity1>,['Book'],Asterix,Asterix
+Q748125_0,<entity2>,['Book'],Switzerland,Schweiz
+Q748125_1,<entity1>,['Book'],Asterix,Asterix
+Q748125_1,<entity2>,['Book'],Switzerland,Schweiz
+Q748125_2,<entity1>,['Book'],Asterix,Asterix
+Q748125_2,<entity2>,['Book'],Switzerland,Schweiz
+Q76210_0,<entity1>,['Book'],The Blue Lotus,Der Blaue Lotos
+Q76210_1,<entity1>,['Book'],The Blue Lotus,Der Blaue Lotos
+Q76210_2,<entity1>,['Book'],The Blue Lotus,Der Blaue Lotos
+Q764962_0,<entity1>,['Movie'],Somebody Up There Likes Me,Die Hölle ist in mir
+Q764962_1,<entity1>,['Movie'],Somebody Up There Likes Me,Die Hölle ist in mir
+Q764962_2,<entity1>,['Movie'],Somebody Up There Likes Me,Die Hölle ist in mir
+Q7719237_0,<entity1>,"['Artwork', 'Book']",The Book of Hours,Das Stunden-Buch
+Q7719237_1,<entity1>,"['Artwork', 'Book']",The Book of Hours,Das Stunden-Buch
+Q7719237_2,<entity1>,"['Artwork', 'Book']",The Book of Hours,Das Stunden-Buch
+Q7734430_0,<entity1>,"['Movie', 'TV series']",The Flight That Fought Back,Flug 93 – Die Dokumentation
+Q7734430_1,<entity1>,"['Movie', 'TV series']",The Flight That Fought Back,Flug 93 – Die Dokumentation
+Q7734430_2,<entity1>,"['Movie', 'TV series']",The Flight That Fought Back,Flug 93 – Die Dokumentation
+Q781942_0,<entity1>,['TV series'],The Trials of Life,Die Herausforderungen des Lebens
+Q781942_1,<entity1>,['TV series'],The Trials of Life,Die Herausforderungen des Lebens
+Q781942_2,<entity1>,['TV series'],The Trials of Life,Die Herausforderungen des Lebens
+Q795118_0,<entity1>,"['Book series', 'TV series']",Terra for Mars,Terra Formars
+Q795118_1,<entity1>,"['Book series', 'TV series']",Terra for Mars,Terra Formars
+Q795118_2,<entity1>,"['Book series', 'TV series']",Terra for Mars,Terra Formars
+Q8028218_0,<entity1>,['Movie'],Without Consent,Die Vergewaltigung der Lisa
+Q8028218_1,<entity1>,['Movie'],Without Consent,Die Vergewaltigung der Lisa
+Q8028218_2,<entity1>,['Movie'],Without Consent,Die Vergewaltigung der Lisa
+Q8036410_0,<entity1>,['TV series'],World War 1 in Colour,Der Erste Weltkrieg in Farbe
+Q8036410_1,<entity1>,['TV series'],World War 1 in Colour,Der Erste Weltkrieg in Farbe
+Q8036410_2,<entity1>,['TV series'],World War 1,Erster Weltkrieg
+Q80683677_0,<entity1>,['TV series'],Diary of a Future President,Tagebuch einer zukünftigen Präsidentin
+Q80683677_1,<entity1>,['TV series'],Diary of a Future President,Tagebuch einer zukünftigen Präsidentin
+Q80683677_2,<entity1>,['TV series'],Diary of a Future President,Tagebuch einer zukünftigen Präsidentin
+Q826495_0,<entity1>,"['Movie', 'TV series']",The Curse of King Tut's Tomb,Der Fluch des Tutanchamun
+Q826495_1,<entity1>,"['Movie', 'TV series']",The Curse of King Tut's Tomb,Der Fluch des Tutanchamun
+Q826495_2,<entity1>,"['Movie', 'TV series']",The Curse of King Tut's Tomb,Der Fluch des Tutanchamun
+Q848397_0,<entity1>,"['Landmark', 'Artwork']",Maiden's Tower,Leanderturm
+Q848397_0,<entity2>,"['Landmark', 'Artwork']",Bosphorus,Bosporus
+Q848397_1,<entity1>,"['Landmark', 'Artwork']",Maiden's Tower,Leanderturm
+Q848397_2,<entity1>,"['Landmark', 'Artwork']",Maiden's Tower,Leanderturm
+Q848397_2,<entity2>,"['Landmark', 'Artwork']",Bosphorus,Bosporus
+Q852032_0,<entity1>,['Place of worship'],Burana Tower,Burana-Turm
+Q852032_1,<entity1>,['Place of worship'],Burana Tower,Burana-Turm
+Q852032_2,<entity1>,['Place of worship'],Burana Tower,Burana-Turm
+Q853847_0,<entity1>,"['Fictional entity', 'Person']",Tinker Bell,Tinkerbell
+Q853847_1,<entity1>,"['Fictional entity', 'Person']",Tinker Bell,Tinkerbell
+Q853847_2,<entity1>,"['Fictional entity', 'Person']",Tinker Bell,Tinkerbell
+Q887438_0,<entity1>,['Person'],Dmitry Shcherbachev,Dmitri Schtscherbatschow
+Q887438_1,<entity1>,['Person'],Dmitry Shcherbachev,Dmitri Schtscherbatschow
+Q887438_2,<entity1>,['Person'],Dmitry Shcherbachev,Dmitri Schtscherbatschow
+Q888136_0,<entity1>,['Movie'],The Tale of the Princess Kaguya,Die Legende der Prinzessin Kaguya
+Q888136_0,<entity2>,['Movie'],Japanese,Japanisch
+Q888136_1,<entity1>,['Movie'],The Tale of the Princess Kaguya,Die Legende der Prinzessin Kaguya
+Q888136_2,<entity1>,['Movie'],The Tale of the Princess Kaguya,Die Legende der Prinzessin Kaguya
+Q896699_0,<entity1>,['Place of worship'],Kamp Abbey,Kloster Kamp
+Q896699_1,<entity1>,['Place of worship'],Kamp Abbey,Kloster Kamp
+Q896699_2,<entity1>,['Place of worship'],Kamp Abbey,Kloster Kamp
+Q896891_0,<entity1>,['TV series'],The Ray Bradbury Theater,Bradburys Gruselkabinett
+Q896891_1,<entity1>,['TV series'],The Ray Bradbury Theater,Bradburys Gruselkabinett
+Q896891_2,<entity1>,['TV series'],The Ray Bradbury Theater,Bradburys Gruselkabinett
+Q911720_0,<entity1>,['Place of worship'],Yeni Eminönü Mosque,Neue Moschee
+Q911720_1,<entity1>,['Place of worship'],Yeni Eminönü Mosque,Neue Moschee
+Q911720_2,<entity1>,['Place of worship'],Yeni Eminönü Mosque,Neue Moschee
+Q915851_0,<entity1>,['Place of worship'],Lal Masjid,Rote Moschee
+Q915851_1,<entity1>,['Place of worship'],Lal Masjid,Rote Moschee
+Q915851_1,<entity2>,['Place of worship'],Pakistan,Pakistan
+Q915851_2,<entity1>,['Place of worship'],Lal Masjid,Rote Moschee
+Q924424_0,<entity1>,['Artwork'],Discourses on Livy,Discorsi
+Q924424_1,<entity1>,['Artwork'],Discourses on Livy,Discorsi
+Q931519_0,<entity1>,['Fictional entity'],Battle of the Pelennor Fields,Schlacht auf den Pelennor-Feldern
+Q931519_1,<entity1>,['Fictional entity'],Battle of the Pelennor Fields,Schlacht auf den Pelennor-Feldern
+Q931519_2,<entity1>,['Fictional entity'],Battle of the Pelennor Fields,Schlacht auf den Pelennor-Feldern
+Q931519_2,<entity2>,['Fictional entity'],Middle-earth,Mittelerde
+Q947641_0,<entity1>,['Person'],Prince,Prinz
+Q947641_0,<entity2>,['Person'],George,Georg
+Q947641_0,<entity3>,['Person'],Yugoslavia,Jugoslawien
+Q947641_1,<entity1>,['Person'],George,Georg
+Q947641_1,<entity2>,['Person'],Yugoslavia,Jugoslawien
+Q947641_2,<entity1>,['Person'],Prince George,Prinz Georg
+Q947641_2,<entity2>,['Person'],Yugoslavia,Jugoslawien
+Q948372_0,<entity1>,"['Artwork', 'Book']",Ursula K. Le Guin,Ursula K. Le Guin
+Q948372_0,<entity2>,"['Artwork', 'Book']",City of Illusions,Stadt der Illusionen
+Q948372_1,<entity1>,"['Artwork', 'Book']",City of Illusions,Stadt der Illusionen
+Q948372_2,<entity1>,"['Artwork', 'Book']",City of Illusions,Stadt der Illusionen
+Q949916_0,<entity1>,"['Fictional entity', 'Person']",Yogi Bear,Yogi Bär
+Q949916_1,<entity1>,"['Fictional entity', 'Person']",Yogi Bear,Yogi Bär
+Q949916_2,<entity1>,"['Fictional entity', 'Person']",Yogi Bear,Yogi Bär
+Q953395_0,<entity1>,['Food'],Manuka,Manuka
+Q953395_1,<entity1>,['Food'],Manuka,Manuka
+Q953395_2,<entity1>,['Food'],Manuka,Manuka
+Q962445_0,<entity1>,['Landmark'],Patriarch Ponds,Patriarchenteiche
+Q962445_2,<entity1>,['Landmark'],Patriarch Ponds,Patriarchenteiche
+Q981135_0,<entity1>,['TV series'],Tarzan: The Epic Adventures,Tarzan – Die Rückkehr
+Q981135_1,<entity1>,['TV series'],Tarzan,Tarzan
+Q981135_1,<entity2>,['TV series'],Tarzan: The Epic Adventures,Tarzan – Die Rückkehr
+Q981135_2,<entity1>,['TV series'],Tarzan: The Epic Adventures,Tarzan – Die Rückkehr
+Q99954618_0,<entity1>,['TV series'],Dead Mountain,Dead Mountain
+Q99954618_1,<entity1>,['TV series'],Dead Mountain,Dead Mountain
+Q99954618_2,<entity1>,['TV series'],Dead Mountain,Dead Mountain
